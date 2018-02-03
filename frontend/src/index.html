@@ -4,7 +4,12 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <title>Dashboard</title>
-
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.3.1/dist/leaflet.css"
+          integrity="sha512-Rksm5RenBEKSKFjgI3a41vrjkw4EVPlJ3+OiI65vTjIdo9brlAacEuKOiQ5OFh7cOI1bkDwLqdLw3Zg0cRJAAQ=="
+          crossorigin=""/>
+    <script src="https://unpkg.com/leaflet@1.3.1/dist/leaflet.js"
+            integrity="sha512-/Nsx9X4HebavoBvEBuyp3I7od5tA0UzAxs+j83KgC8PU0kgB4XiK4Lfe4y4cgBtaRJQEIFCW+oC506aPT2L1zw=="
+            crossorigin=""></script>
     <style>
       #loader {
         transition: all 0.3s ease-in-out;
@@ -52,6 +57,9 @@
           opacity: 0;
         }
       }
+      .header.navbar {
+        z-index: 10000;
+      }
     </style>
   </head>
   <body class="app">
@@ -88,7 +96,7 @@
     <!-- =================================================== -->
     <div>
       <!-- #Left Sidebar ==================== -->
-      <div class="sidebar">
+      <div class="sidebar" style="z-index:10001;">
         <div class="sidebar-inner">
           <!-- ### $Sidebar Header ### -->
           <div class="sidebar-logo">
@@ -98,11 +106,11 @@
                   <div class="peers ai-c fxw-nw">
                     <div class="peer">
                       <div class="logo">
-                        <img src="assets/static/images/logo.png" alt="">
+                        <img src="assets/static/images/icon.png" alt="">
                       </div>
                     </div>
                     <div class="peer peer-greed">
-                      <h5 class="lh-1 mB-0 logo-text">Adminator</h5>
+                      <h5 class="lh-1 mB-0 logo-text">SomRotació</h5>
                     </div>
                   </div>
                 </a>
@@ -295,19 +303,10 @@
                   <i class="ti-menu"></i>
                 </a>
               </li>
-              <li class="search-box">
-                <a class="search-toggle no-pdd-right" href="javascript:void(0);">
-                  <i class="search-icon ti-search pdd-right-10"></i>
-                  <i class="search-icon-close ti-close pdd-right-10"></i>
-                </a>
-              </li>
-              <li class="search-input">
-                <input class="form-control" type="text" placeholder="Search...">
-              </li>
             </ul>
             <ul class="nav-right">
               <li class="notifications dropdown">
-                <span class="counter bgc-red">3</span>
+                <span class="counter bgc-red">1</span>
                 <a href="" class="dropdown-toggle no-after" data-toggle="dropdown">
                   <i class="ti-bell"></i>
                 </a>
@@ -315,7 +314,7 @@
                 <ul class="dropdown-menu">
                   <li class="pX-20 pY-15 bdB">
                     <i class="ti-bell pR-10"></i>
-                    <span class="fsz-sm fw-600 c-grey-900">Notifications</span>
+                    <span class="fsz-sm fw-600 c-grey-900">Alertes</span>
                   </li>
                   <li>
                     <ul class="ovY-a pos-r scrollable lis-n p-0 m-0 fsz-sm">
@@ -332,40 +331,6 @@
                             </span>
                             <p class="m-0">
                               <small class="fsz-xs">5 mins ago</small>
-                            </p>
-                          </div>
-                        </a>
-                      </li>
-                      <li>
-                        <a href="" class='peers fxw-nw td-n p-20 bdB c-grey-800 cH-blue bgcH-grey-100'>
-                          <div class="peer mR-15">
-                            <img class="w-3r bdrs-50p" src="https://randomuser.me/api/portraits/men/2.jpg" alt="">
-                          </div>
-                          <div class="peer peer-greed">
-                            <span>
-                              <span class="fw-500">Moo Doe</span>
-                              <span class="c-grey-600">liked your <span class="text-dark">cover image</span>
-                              </span>
-                            </span>
-                            <p class="m-0">
-                              <small class="fsz-xs">7 mins ago</small>
-                            </p>
-                          </div>
-                        </a>
-                      </li>
-                      <li>
-                        <a href="" class='peers fxw-nw td-n p-20 bdB c-grey-800 cH-blue bgcH-grey-100'>
-                          <div class="peer mR-15">
-                            <img class="w-3r bdrs-50p" src="https://randomuser.me/api/portraits/men/3.jpg" alt="">
-                          </div>
-                          <div class="peer peer-greed">
-                            <span>
-                              <span class="fw-500">Lee Doe</span>
-                              <span class="c-grey-600">commented on your <span class="text-dark">video</span>
-                              </span>
-                            </span>
-                            <p class="m-0">
-                              <small class="fsz-xs">10 mins ago</small>
                             </p>
                           </div>
                         </a>
@@ -470,10 +435,10 @@
               <li class="dropdown">
                 <a href="" class="dropdown-toggle no-after peers fxw-nw ai-c lh-1" data-toggle="dropdown">
                   <div class="peer mR-10">
-                    <img class="w-2r bdrs-50p" src="https://randomuser.me/api/portraits/men/10.jpg" alt="">
+                    <img class="w-2r bdrs-50p" src="assets/static/images/mataro.png" alt="">
                   </div>
                   <div class="peer">
-                    <span class="fsz-sm c-grey-900">John Doe</span>
+                    <span class="fsz-sm c-grey-900">Aj. Mataró</span>
                   </div>
                 </a>
                 <ul class="dropdown-menu fsz-sm">
@@ -519,7 +484,7 @@
                   <div class='col-md-3'>
                     <div class="layers bd bgc-white p-20">
                       <div class="layer w-100 mB-10">
-                        <h6 class="lh-1">Total Visits</h6>
+                        <h6 class="lh-1">Estacionaments actuals</h6>
                       </div>
                       <div class="layer w-100">
                         <div class="peers ai-sb fxw-nw">
@@ -538,7 +503,7 @@
                   <div class='col-md-3'>
                     <div class="layers bd bgc-white p-20">
                       <div class="layer w-100 mB-10">
-                        <h6 class="lh-1">Total Page Views</h6>
+                        <h6 class="lh-1">Estacionaments caducats</h6>
                       </div>
                       <div class="layer w-100">
                         <div class="peers ai-sb fxw-nw">
@@ -557,7 +522,7 @@
                   <div class='col-md-3'>
                     <div class="layers bd bgc-white p-20">
                       <div class="layer w-100 mB-10">
-                        <h6 class="lh-1">Unique Visitor</h6>
+                        <h6 class="lh-1">Vehicles únics</h6>
                       </div>
                       <div class="layer w-100">
                         <div class="peers ai-sb fxw-nw">
@@ -576,7 +541,7 @@
                   <div class='col-md-3'>
                     <div class="layers bd bgc-white p-20">
                       <div class="layer w-100 mB-10">
-                        <h6 class="lh-1">Bounce Rate</h6>
+                        <h6 class="lh-1">Percentatge d'us</h6>
                       </div>
                       <div class="layer w-100">
                         <div class="peers ai-sb fxw-nw">
@@ -602,7 +567,7 @@
                           <h6 class="lh-1">Site Visits</h6>
                         </div>
                         <div class="layer w-100">
-                          <div id="world-map-marker"></div>
+                          <div id="mapid" style="width: 100%; height: 500px;"></div>
                         </div>
                       </div>
                     </div>
