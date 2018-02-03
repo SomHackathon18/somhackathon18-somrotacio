@@ -56,12 +56,14 @@ def parking_list():
 
 @app.route('/cid', methods=['GET'])
 def cid_list():
-    cid = read_file('cid.json')
+    cid = read_file('cid-infostat.json')
     return Response(cid, status=200, mimetype='application/json')
 
 
 if __name__ == '__main__':
-    basicConfig(filename=os.environ['APP_LOG'], level=INFO)
+    abs_path = os.path.dirname(os.path.abspath(__file__))
+    log = os.path.join(abs_path, os.environ['APP_LOG'])
+    basicConfig(filename=log, level=INFO)
 
     repository = Persistence(os.environ['DB_PATH'], logging.getLogger(__name__))
     repository.init_db()
