@@ -21,8 +21,7 @@ def parking_post():
     repository.create(parking['vehicle'], parking['parkingArea'], parking['startTime'])
     return jsonify(parking), 201
 
-
-@app.route('/parking', methods=['GET'])
+@app.route('/parkings', methods=['GET'])
 def parking_list():
     parking_ll = repository.list()
     print parking_ll

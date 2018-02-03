@@ -2,6 +2,8 @@ import sqlite3
 import json
 from collections import OrderedDict
 
+import uuid as uuid
+
 
 class Persistence:
     def __init__(self, path, log):
@@ -12,11 +14,12 @@ class Persistence:
         db_conn, db_client = self.create_connection()
         try:
             db_client.execute('''CREATE TABLE IF NOT EXISTS parking
-                         (vehicle TEXT,
-                         parkingArea INT,
+                         (id INTEGER PRIMARY KEY AUTOINCREMENT,
+                         vehicle TEXT,
+                         parkingArea INTEGER,
                          startTime TIMESTAMP,
                          endTime TIMESTAMP,
-                         PRIMARY KEY (vehicle, parkingArea, startTime)
+                         CONSTRAINT unique_parking UNIQUE (vehicle, parkingArea, startTime)
                          )''')
             db_conn.commit()
         except Exception as e:
