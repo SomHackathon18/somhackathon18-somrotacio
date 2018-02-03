@@ -1,3 +1,4 @@
+/*
 import * as $ from 'jquery';
 import 'leaflet.markercluster';
 
@@ -61,3 +62,4 @@ export default (function () {
     });
   }
 }())
+*/
