@@ -1,4 +1,5 @@
-﻿[
+﻿cid = \
+[
   {
     "ID": 1,
     "ZONA": "Càrrega i Descàrrega",

@@ -54,20 +54,19 @@ def parking_list():
     return jsonify(parking_ll)
 
 
-def getCID():
-    cid_list = read_file('cid-infostat.json')
-    return cid_list
-
 @app.route('/cid', methods=['GET'])
 def cid_list():
-    cid_list = getCID()
-    #cid_list = json.loads(cid_list, object_pairs_hook=OrderedDict)
-    print cid_list
+    from cid_infostat import cid as cids
+    cid_dict = {}
+    for cid in cids:
+        cid['nplacesocupades'] = 0
+        cid_dict[cid["ID"]] = cid
 
     parking_list = repository.list_occupied()
-    print parking_list
+    for parking in parking_list:
+        cid_dict[parking['parkingArea']]['nplacesocupades'] = cid_dict[parking['parkingArea']]['nplacesocupades'] + 1
 
-    return Response(cid_list, status=200, mimetype='application/json')
+    return jsonify(cid_dict)
 
 
 
