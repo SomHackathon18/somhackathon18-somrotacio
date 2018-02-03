@@ -27,6 +27,6 @@ public class HomeFragment extends Fragment {
     }
 
     private void setUpElements() {
-        title = (TextView) rootView.findViewById(R.id.title_tv);
+        title = (TextView) rootView.findViewById(R.id.profile_username_label);
     }
 }

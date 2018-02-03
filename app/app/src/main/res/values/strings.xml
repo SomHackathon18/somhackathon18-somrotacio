@@ -1,7 +1,19 @@
 <resources>
     <string name="app_name">SomHackathon2018</string>
 
-    <string name="title_home">Home</string>
-    <string name="title_dashboard">Dashboard</string>
-    <string name="title_profile">Profile</string>
+    <string name="title_home">Inici</string>
+    <string name="title_dashboard">Panel</string>
+    <string name="title_profile">Perfil</string>
+
+    <string name="register_label">Registre</string>
+    <string name="login_label">Iniciar sessió</string>
+    <string name="logout_label">Tancar sessió</string>
+    <string name="update_label">Actualitzar perfil</string>
+
+    <string name="profile_username_label">Usuari</string>
+    <string name="profile_vehicle_label">Vehicles</string>
+    <string name="profile_vehicle_nou_label">Nova matrícula</string>
+    <string name="profile_vehicle_afegir_label">Afegir</string>
+    <string name="profile_matricula_label">Matrícula</string>
+    <string name="profile_particular_label">Particular</string>
 </resources>

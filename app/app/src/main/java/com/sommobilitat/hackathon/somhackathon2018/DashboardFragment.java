@@ -18,7 +18,7 @@ public class DashboardFragment extends Fragment {
 
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
-        rootView = inflater.inflate(R.layout.fragment_home, container, false);
+        rootView = inflater.inflate(R.layout.fragment_dashboard, container, false);
 
         setUpElements();
         title.setText(getString(R.string.title_dashboard));
@@ -27,6 +27,6 @@ public class DashboardFragment extends Fragment {
     }
 
     private void setUpElements() {
-        title = (TextView) rootView.findViewById(R.id.title_tv);
+        title = (TextView) rootView.findViewById(R.id.profile_username_label);
     }
 }

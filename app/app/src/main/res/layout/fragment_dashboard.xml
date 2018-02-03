@@ -2,10 +2,11 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:layout_marginBottom="?attr/actionBarSize"
     tools:context="com.sommobilitat.hackathon.somhackathon2018.HomeFragment">
 
     <TextView
-        android:id="@+id/title_tv"
+        android:id="@+id/profile_username_label"
         android:layout_width="match_parent"
         android:layout_height="match_parent" />
 </FrameLayout>

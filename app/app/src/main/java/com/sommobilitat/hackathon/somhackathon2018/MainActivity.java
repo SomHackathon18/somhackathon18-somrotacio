@@ -7,7 +7,22 @@ import android.support.v4.app.Fragment;
 import android.support.v7.app.AppCompatActivity;
 import android.view.MenuItem;
 
+import com.sommobilitat.hackathon.somhackathon2018.controllers.AuthController;
+
 public class MainActivity extends AppCompatActivity {
+    private static final String TAG = MainActivity.class.getSimpleName();
+    private BottomNavigationView navigation;
+
+    @Override
+    protected void onCreate(Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+        setContentView(R.layout.activity_main);
+
+        navigation = (BottomNavigationView) findViewById(R.id.navigation);
+        navigation.setOnNavigationItemSelectedListener(mOnNavigationItemSelectedListener);
+
+        navigation.setSelectedItemId(R.id.navigation_home);
+    }
 
     private BottomNavigationView.OnNavigationItemSelectedListener mOnNavigationItemSelectedListener
             = new BottomNavigationView.OnNavigationItemSelectedListener() {
@@ -24,7 +39,14 @@ public class MainActivity extends AppCompatActivity {
                     selectedFragment = DashboardFragment.newInstance();
                     break;
                 case R.id.navigation_profile:
-                    selectedFragment = ProfileFragment.newInstance();
+                    // If logged/registered show profile
+                    if (isUserLogged()) {
+                        selectedFragment = ProfileFragment.newInstance();
+                    } else {
+                        // Show login/register screen
+                        selectedFragment = AuthFragment.newInstance();
+                    }
+
                     break;
             }
 
@@ -36,14 +58,11 @@ public class MainActivity extends AppCompatActivity {
         }
     };
 
-    @Override
-    protected void onCreate(Bundle savedInstanceState) {
-        super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_main);
+    private boolean isUserLogged() {
+        return AuthController.isUserLogged(this);
+    }
 
-        BottomNavigationView navigation = (BottomNavigationView) findViewById(R.id.navigation);
-        navigation.setOnNavigationItemSelectedListener(mOnNavigationItemSelectedListener);
-
-        navigation.setSelectedItemId(R.id.navigation_home);
+    public void reloadMainActivity(int idToReload) {
+        navigation.setSelectedItemId(idToReload);
     }
 }

@@ -1,11 +1,90 @@
-<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:layout_marginBottom="?attr/actionBarSize"
+    android:orientation="vertical"
+    android:padding="15dp"
     tools:context="com.sommobilitat.hackathon.somhackathon2018.HomeFragment">
 
-    <TextView
-        android:id="@+id/title_tv"
+    <LinearLayout
+        android:id="@+id/username_layout"
         android:layout_width="match_parent"
-        android:layout_height="match_parent" />
-</FrameLayout>
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/profile_username_label"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/profile_username_text"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/profile_username_label"
+            android:textSize="20sp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/vehicles_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/username_layout"
+        android:layout_marginTop="20dp"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/profile_vehicle_label"
+                android:textSize="20sp"
+                android:layout_gravity="center_vertical"
+                android:textStyle="bold" />
+
+            <ImageButton
+                android:id="@+id/profile_add_vehicle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:adjustViewBounds="true"
+                android:src="@drawable/ic_car_add" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/profile_vehicles_layout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:orientation="vertical">
+
+        <Button
+            android:id="@+id/bt_update_profile"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="15dp"
+            android:background="@color/colorAccent"
+            android:text="@string/update_label" />
+
+        <Button
+            android:id="@+id/bt_logout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:background="@color/colorAccent"
+            android:text="@string/logout_label" />
+    </LinearLayout>
+</RelativeLayout>
