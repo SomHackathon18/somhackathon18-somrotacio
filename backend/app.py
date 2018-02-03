@@ -42,11 +42,12 @@ def parking_list():
 @app.route('/cid', methods=['GET'])
 def cid_list():
     with open('cid.json', 'r') as json:
-        return Response(json.read(), status=200, mimetype='application/json')
+        content = json.read()
+    return Response(content, status=200, mimetype='application/json')
 
 
 if __name__ == '__main__':
     repository = Persistence(os.environ['DB_PATH'], logging.getLogger(__name__))
     repository.init_db()
 
-    app.run(host=os.environ['IP_LISTEN'], port=int(os.environ['PORT_LISTEN']))
+    app.run(host=os.environ['IP_LISTEN'], port=int(os.environ['PORT_LISTEN']), threaded=True)
