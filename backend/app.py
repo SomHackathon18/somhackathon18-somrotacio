@@ -1,4 +1,6 @@
-from flask import Flask, request
+from flask import Flask, request, logging
+
+from backend.persistence import Persistence
 
 app = Flask(__name__)
 
@@ -16,8 +18,17 @@ def validate_parking(parking):
 def parking_post():
     parking = request.get_json()
     validate_parking(parking)
+    repository.create(parking['vehicle'], parking['parkingArea'], parking['startTime'])
     return parking, 201
 
 
+@app.route('/parking', methods=['GET'])
+def parking_list():
+    return None, 201
+
+
 if __name__ == '__main__':
+    repository = Persistence('database.db', logging.getLogger(__name__))
+    repository.init_db()
+
     app.run()
