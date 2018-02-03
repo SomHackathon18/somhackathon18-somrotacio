@@ -1,4 +1,5 @@
 import * as $ from 'jquery';
+import 'leaflet.markercluster';
 
 export default (function () {
   if ($('#mapid').length > 0) {
@@ -31,7 +32,10 @@ export default (function () {
       }
 
       var polygonsLayer = L.layerGroup(polygons);
-      var markersLayer = L.layerGroup(marker)
+      // Markers agregados (https://github.com/Leaflet/Leaflet.markercluster) Descomentar la siguiente:
+      //var markersLayer = L.markerClusterGroup().addLayer(L.layerGroup(marker));
+      // Marker por punto:
+      var markersLayer = L.layerGroup(marker);
 
       var city = L.tileLayer('https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token=pk.eyJ1IjoibWFwYm94IiwiYSI6ImNpejY4NXVycTA2emYycXBndHRqcmZ3N3gifQ.rJcFIG214AriISLbB6B5aw', {
         maxZoom: 18,

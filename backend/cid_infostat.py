@@ -1,7 +1,8 @@
+Ôªøcid = \
 [
   {
     "ID": 1,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 30.61054,
     "PERIMETRE": 26.91113,
     "AMPLADA": 10.55564,
@@ -14,7 +15,7 @@
   },
   {
     "ID": 2,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 53.83968,
     "PERIMETRE": 49.6672,
     "AMPLADA": 22.43365,
@@ -27,7 +28,7 @@
   },
   {
     "ID": 3,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 53.23435,
     "PERIMETRE": 40.9973,
     "AMPLADA": 17.44754,
@@ -40,7 +41,7 @@
   },
   {
     "ID": 4,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 30.40962,
     "PERIMETRE": 30.14154,
     "AMPLADA": 12.67079,
@@ -53,7 +54,7 @@
   },
   {
     "ID": 5,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 48.41702,
     "PERIMETRE": 45.05273,
     "AMPLADA": 20.11995,
@@ -66,7 +67,7 @@
   },
   {
     "ID": 6,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 60.53934,
     "PERIMETRE": 48.88732,
     "AMPLADA": 21.647,
@@ -79,7 +80,7 @@
   },
   {
     "ID": 7,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 40.92402,
     "PERIMETRE": 33.84608,
     "AMPLADA": 2.92317,
@@ -92,7 +93,7 @@
   },
   {
     "ID": 8,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 31.13514,
     "PERIMETRE": 29.96206,
     "AMPLADA": 12.48778,
@@ -105,7 +106,7 @@
   },
   {
     "ID": 9,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 53.09667,
     "PERIMETRE": 40.90804,
     "AMPLADA": 17.40302,
@@ -118,7 +119,7 @@
   },
   {
     "ID": 10,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 29.81972,
     "PERIMETRE": 29.65001,
     "AMPLADA": 12.42503,
@@ -131,7 +132,7 @@
   },
   {
     "ID": 11,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 29.81972,
     "PERIMETRE": 29.65001,
     "AMPLADA": 12.42503,
@@ -144,7 +145,7 @@
   },
   {
     "ID": 12,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 36.96242,
     "PERIMETRE": 35.60031,
     "AMPLADA": 2.40016,
@@ -157,7 +158,7 @@
   },
   {
     "ID": 13,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 26.16171,
     "PERIMETRE": 26.60031,
     "AMPLADA": 10.9,
@@ -170,7 +171,7 @@
   },
   {
     "ID": 14,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 29.81972,
     "PERIMETRE": 29.65001,
     "AMPLADA": 12.42503,
@@ -183,7 +184,7 @@
   },
   {
     "ID": 15,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 123.1905,
     "PERIMETRE": 67.68335,
     "AMPLADA": 29.69285,
@@ -196,7 +197,7 @@
   },
   {
     "ID": 16,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 60.89289,
     "PERIMETRE": 51.06708,
     "AMPLADA": 22.8711,
@@ -209,7 +210,7 @@
   },
   {
     "ID": 17,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 38.5,
     "PERIMETRE": 35.8,
     "AMPLADA": 15.4,
@@ -222,7 +223,7 @@
   },
   {
     "ID": 18,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 40.90147,
     "PERIMETRE": 32.75081,
     "AMPLADA": 3.07527,
@@ -235,7 +236,7 @@
   },
   {
     "ID": 19,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 38.50146,
     "PERIMETRE": 35.80117,
     "AMPLADA": 15.40058,
@@ -248,7 +249,7 @@
   },
   {
     "ID": 20,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 48.96385,
     "PERIMETRE": 45.60321,
     "AMPLADA": 2.4,
@@ -261,7 +262,7 @@
   },
   {
     "ID": 21,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 132.10212,
     "PERIMETRE": 96.61947,
     "AMPLADA": 2.90974,
@@ -274,7 +275,7 @@
   },
   {
     "ID": 22,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 29.95382,
     "PERIMETRE": 29.76383,
     "AMPLADA": 12.48219,
@@ -287,7 +288,7 @@
   },
   {
     "ID": 23,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 29.94234,
     "PERIMETRE": 29.75401,
     "AMPLADA": 12.47725,
@@ -300,7 +301,7 @@
   },
   {
     "ID": 24,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 25.06006,
     "PERIMETRE": 26.90603,
     "AMPLADA": 11.21938,
@@ -313,7 +314,7 @@
   },
   {
     "ID": 25,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 25.01359,
     "PERIMETRE": 26.90189,
     "AMPLADA": 11.22196,
@@ -326,7 +327,7 @@
   },
   {
     "ID": 26,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 45.16753,
     "PERIMETRE": 42.15017,
     "AMPLADA": 18.65372,
@@ -339,7 +340,7 @@
   },
   {
     "ID": 27,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 45.60144,
     "PERIMETRE": 36.79899,
     "AMPLADA": 15.44746,
@@ -352,7 +353,7 @@
   },
   {
     "ID": 28,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 58.55998,
     "PERIMETRE": 53.59998,
     "AMPLADA": 2.4,
@@ -365,7 +366,7 @@
   },
   {
     "ID": 29,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 22.55975,
     "PERIMETRE": 23.5999,
     "AMPLADA": 9.39997,
@@ -378,7 +379,7 @@
   },
   {
     "ID": 30,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 36.95953,
     "PERIMETRE": 35.59961,
     "AMPLADA": 2.4,
@@ -391,7 +392,7 @@
   },
   {
     "ID": 31,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 64.91829,
     "PERIMETRE": 55.90595,
     "AMPLADA": 25.39682,
@@ -404,7 +405,7 @@
   },
   {
     "ID": 32,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 37.4621,
     "PERIMETRE": 43.68143,
     "AMPLADA": 19.96426,
@@ -417,7 +418,7 @@
   },
   {
     "ID": 33,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 26.78087,
     "PERIMETRE": 23.51451,
     "AMPLADA": 8.66742,
@@ -430,7 +431,7 @@
   },
   {
     "ID": 34,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 32.6522,
     "PERIMETRE": 32.01018,
     "AMPLADA": 13.60509,
@@ -443,7 +444,7 @@
   },
   {
     "ID": 35,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 43.38118,
     "PERIMETRE": 34.54604,
     "AMPLADA": 14.22293,
@@ -456,7 +457,7 @@
   },
   {
     "ID": 36,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 35.72543,
     "PERIMETRE": 38.54768,
     "AMPLADA": 17.19634,
@@ -469,7 +470,7 @@
   },
   {
     "ID": 37,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 35.0929,
     "PERIMETRE": 33.14386,
     "AMPLADA": 14.07944,
@@ -482,7 +483,7 @@
   },
   {
     "ID": 38,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 60.89213,
     "PERIMETRE": 47.07891,
     "AMPLADA": 20.58076,
@@ -495,7 +496,7 @@
   },
   {
     "ID": 39,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 45.27274,
     "PERIMETRE": 34.86797,
     "AMPLADA": 14.25894,
@@ -508,7 +509,7 @@
   },
   {
     "ID": 40,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 40.6811,
     "PERIMETRE": 37.54488,
     "AMPLADA": 16.27244,
@@ -521,7 +522,7 @@
   },
   {
     "ID": 41,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 37.92129,
     "PERIMETRE": 31.28883,
     "AMPLADA": 2.99876,
@@ -534,7 +535,7 @@
   },
   {
     "ID": 42,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 28.82545,
     "PERIMETRE": 28.0505,
     "AMPLADA": 11.52388,
@@ -547,7 +548,7 @@
   },
   {
     "ID": 43,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 37.8696,
     "PERIMETRE": 36.35806,
     "AMPLADA": 15.77903,
@@ -560,7 +561,7 @@
   },
   {
     "ID": 44,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 36.99546,
     "PERIMETRE": 35.63031,
     "AMPLADA": 15.41522,
@@ -573,7 +574,7 @@
   },
   {
     "ID": 45,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 33.10367,
     "PERIMETRE": 31.72085,
     "AMPLADA": 13.38774,
@@ -586,7 +587,7 @@
   },
   {
     "ID": 46,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 42.68426,
     "PERIMETRE": 43.20389,
     "AMPLADA": 19.40195,
@@ -599,7 +600,7 @@
   },
   {
     "ID": 47,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 33.57786,
     "PERIMETRE": 32.61284,
     "AMPLADA": 13.8888,
@@ -612,7 +613,7 @@
   },
   {
     "ID": 48,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 47.16378,
     "PERIMETRE": 43.68502,
     "AMPLADA": 19.41302,
@@ -625,7 +626,7 @@
   },
   {
     "ID": 49,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 30.94088,
     "PERIMETRE": 28.99066,
     "AMPLADA": 11.89393,
@@ -638,7 +639,7 @@
   },
   {
     "ID": 50,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 33.86687,
     "PERIMETRE": 31.60713,
     "AMPLADA": 13.247,
@@ -651,7 +652,7 @@
   },
   {
     "ID": 51,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 31.93535,
     "PERIMETRE": 31.46827,
     "AMPLADA": 13.34022,
@@ -664,7 +665,7 @@
   },
   {
     "ID": 52,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 22.56001,
     "PERIMETRE": 23.6,
     "AMPLADA": 9.4,
@@ -677,7 +678,7 @@
   },
   {
     "ID": 53,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 35.5137,
     "PERIMETRE": 34.39475,
     "AMPLADA": 14.79738,
@@ -690,7 +691,7 @@
   },
   {
     "ID": 54,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 24.85325,
     "PERIMETRE": 25.41414,
     "AMPLADA": 10.29234,
@@ -703,7 +704,7 @@
   },
   {
     "ID": 55,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 39.22383,
     "PERIMETRE": 25.82211,
     "AMPLADA": 8.02077,
@@ -716,7 +717,7 @@
   },
   {
     "ID": 56,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 20.2283,
     "PERIMETRE": 21.63046,
     "AMPLADA": 2.40528,
@@ -729,7 +730,7 @@
   },
   {
     "ID": 57,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 29.89973,
     "PERIMETRE": 29.67229,
     "AMPLADA": 12.43086,
@@ -742,7 +743,7 @@
   },
   {
     "ID": 58,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 35.39945,
     "PERIMETRE": 34.24532,
     "AMPLADA": 14.71738,
@@ -755,7 +756,7 @@
   },
   {
     "ID": 59,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 96.94947,
     "PERIMETRE": 80.12489,
     "AMPLADA": 37.47543,
@@ -768,7 +769,7 @@
   },
   {
     "ID": 60,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 94.76008,
     "PERIMETRE": 82.7912,
     "AMPLADA": 38.96358,
@@ -781,7 +782,7 @@
   },
   {
     "ID": 61,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 18.98687,
     "PERIMETRE": 18.7334,
     "AMPLADA": 2.9667,
@@ -794,7 +795,7 @@
   },
   {
     "ID": 62,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 49.73673,
     "PERIMETRE": 39.41374,
     "AMPLADA": 16.73482,
@@ -807,7 +808,7 @@
   },
   {
     "ID": 63,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 30.90639,
     "PERIMETRE": 29.72511,
     "AMPLADA": 12.36256,
@@ -820,7 +821,7 @@
   },
   {
     "ID": 64,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 24.96,
     "PERIMETRE": 25.6,
     "AMPLADA": 10.4,
@@ -833,7 +834,7 @@
   },
   {
     "ID": 65,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 60.85315,
     "PERIMETRE": 55.51096,
     "AMPLADA": 25.35548,
@@ -846,7 +847,7 @@
   },
   {
     "ID": 66,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 40.43263,
     "PERIMETRE": 33.51263,
     "AMPLADA": 13.83351,
@@ -859,7 +860,7 @@
   },
   {
     "ID": 67,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 140.59828,
     "PERIMETRE": 102.655,
     "AMPLADA": 48.42402,
@@ -872,7 +873,7 @@
   },
   {
     "ID": 68,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 32.24316,
     "PERIMETRE": 30.00243,
     "AMPLADA": 12.40121,
@@ -885,7 +886,7 @@
   },
   {
     "ID": 69,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 71.55344,
     "PERIMETRE": 66.51501,
     "AMPLADA": 30.94524,
@@ -898,7 +899,7 @@
   },
   {
     "ID": 70,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 28.69563,
     "PERIMETRE": 28.57648,
     "AMPLADA": 11.87094,
@@ -911,7 +912,7 @@
   },
   {
     "ID": 71,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 36.12105,
     "PERIMETRE": 31.40016,
     "AMPLADA": 2.80008,
@@ -924,7 +925,7 @@
   },
   {
     "ID": 72,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 19.3722,
     "PERIMETRE": 20.08817,
     "AMPLADA": 7.44045,
@@ -937,7 +938,7 @@
   },
   {
     "ID": 73,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 93.44563,
     "PERIMETRE": 67.01317,
     "AMPLADA": 30.43639,
@@ -950,7 +951,7 @@
   },
   {
     "ID": 74,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 14.79361,
     "PERIMETRE": 17.85575,
     "AMPLADA": 6.72958,
@@ -963,7 +964,7 @@
   },
   {
     "ID": 75,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 30.10763,
     "PERIMETRE": 29.88969,
     "AMPLADA": 2.4,
@@ -976,7 +977,7 @@
   },
   {
     "ID": 76,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 35.96,
     "PERIMETRE": 30.6,
     "AMPLADA": 12.4,
@@ -989,7 +990,7 @@
   },
   {
     "ID": 77,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 24.96169,
     "PERIMETRE": 25.44904,
     "AMPLADA": 2.42314,
@@ -1002,7 +1003,7 @@
   },
   {
     "ID": 78,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 39.3743,
     "PERIMETRE": 37.61192,
     "AMPLADA": 16.40596,
@@ -1015,7 +1016,7 @@
   },
   {
     "ID": 79,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 31,
     "PERIMETRE": 29.8,
     "AMPLADA": 12.4,
@@ -1028,7 +1029,7 @@
   },
   {
     "ID": 80,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 31,
     "PERIMETRE": 29.8,
     "AMPLADA": 2.5,
@@ -1041,7 +1042,7 @@
   },
   {
     "ID": 81,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 20.16,
     "PERIMETRE": 21.6,
     "AMPLADA": 2.4,
@@ -1054,7 +1055,7 @@
   },
   {
     "ID": 82,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 26.19314,
     "PERIMETRE": 27.33173,
     "AMPLADA": 11.36017,
@@ -1067,7 +1068,7 @@
   },
   {
     "ID": 83,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 37.66829,
     "PERIMETRE": 35.91004,
     "AMPLADA": 15.52941,
@@ -1080,7 +1081,7 @@
   },
   {
     "ID": 84,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 186.304,
     "PERIMETRE": 70.9861,
     "AMPLADA": 29.08827,
@@ -1093,7 +1094,7 @@
   },
   {
     "ID": 85,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 40.6601,
     "PERIMETRE": 37.75856,
     "AMPLADA": 2.47927,
@@ -1106,7 +1107,7 @@
   },
   {
     "ID": 86,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 34.36344,
     "PERIMETRE": 33.04327,
     "AMPLADA": 2.44037,
@@ -1119,7 +1120,7 @@
   },
   {
     "ID": 87,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 30.5661,
     "PERIMETRE": 30.2826,
     "AMPLADA": 12.74256,
@@ -1132,7 +1133,7 @@
   },
   {
     "ID": 88,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 33.54391,
     "PERIMETRE": 31.83525,
     "AMPLADA": 13.41764,
@@ -1145,7 +1146,7 @@
   },
   {
     "ID": 89,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 32.90772,
     "PERIMETRE": 36.82013,
     "AMPLADA": 16.40398,
@@ -1158,7 +1159,7 @@
   },
   {
     "ID": 90,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 51.75681,
     "PERIMETRE": 46.93024,
     "AMPLADA": 21.00058,
@@ -1171,7 +1172,7 @@
   },
   {
     "ID": 91,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 32.28892,
     "PERIMETRE": 30.03774,
     "AMPLADA": 12.41888,
@@ -1184,7 +1185,7 @@
   },
   {
     "ID": 92,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 28.51541,
     "PERIMETRE": 27.81233,
     "AMPLADA": 2.5,
@@ -1197,7 +1198,7 @@
   },
   {
     "ID": 93,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 28.02932,
     "PERIMETRE": 29.45734,
     "AMPLADA": 12.48333,
@@ -1210,7 +1211,7 @@
   },
   {
     "ID": 94,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 38.73382,
     "PERIMETRE": 30.41055,
     "AMPLADA": 11.96913,
@@ -1223,7 +1224,7 @@
   },
   {
     "ID": 95,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 32.53191,
     "PERIMETRE": 30.22781,
     "AMPLADA": 12.51433,
@@ -1236,7 +1237,7 @@
   },
   {
     "ID": 96,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 32.5,
     "PERIMETRE": 31,
     "AMPLADA": 2.5,
@@ -1249,7 +1250,7 @@
   },
   {
     "ID": 97,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 31.03888,
     "PERIMETRE": 29.84508,
     "AMPLADA": 12.4243,
@@ -1262,7 +1263,7 @@
   },
   {
     "ID": 98,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 29.90243,
     "PERIMETRE": 29.62297,
     "AMPLADA": 12.4,
@@ -1275,7 +1276,7 @@
   },
   {
     "ID": 99,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 50.87558,
     "PERIMETRE": 36.55689,
     "AMPLADA": 14.85322,
@@ -1288,7 +1289,7 @@
   },
   {
     "ID": 100,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 44.8783,
     "PERIMETRE": 39.63554,
     "AMPLADA": 17.21009,
@@ -1301,7 +1302,7 @@
   },
   {
     "ID": 101,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 26.38194,
     "PERIMETRE": 24.09397,
     "AMPLADA": 9.17,
@@ -1314,7 +1315,7 @@
   },
   {
     "ID": 102,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 108.49491,
     "PERIMETRE": 50.7347,
     "AMPLADA": 19.92113,
@@ -1327,7 +1328,7 @@
   },
   {
     "ID": 103,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 41.34908,
     "PERIMETRE": 42.62709,
     "AMPLADA": 19.15487,
@@ -1340,7 +1341,7 @@
   },
   {
     "ID": 104,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 32.30125,
     "PERIMETRE": 30.02419,
     "AMPLADA": 12.40906,
@@ -1353,7 +1354,7 @@
   },
   {
     "ID": 105,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 25.24522,
     "PERIMETRE": 25.72243,
     "AMPLADA": 10.44402,
@@ -1366,7 +1367,7 @@
   },
   {
     "ID": 106,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 23.92,
     "PERIMETRE": 25.4,
     "AMPLADA": 2.3,
@@ -1379,7 +1380,7 @@
   },
   {
     "ID": 107,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 29.18902,
     "PERIMETRE": 29.50791,
     "AMPLADA": 12.4,
@@ -1392,7 +1393,7 @@
   },
   {
     "ID": 108,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 48.59369,
     "PERIMETRE": 38.87192,
     "AMPLADA": 16.48891,
@@ -1405,7 +1406,7 @@
   },
   {
     "ID": 109,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 23.43916,
     "PERIMETRE": 24.23282,
     "AMPLADA": 2.41641,
@@ -1418,7 +1419,7 @@
   },
   {
     "ID": 110,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 26.16,
     "PERIMETRE": 26.6,
     "AMPLADA": 10.9,
@@ -1431,7 +1432,7 @@
   },
   {
     "ID": 111,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 25.97837,
     "PERIMETRE": 25.79654,
     "AMPLADA": 10.40046,
@@ -1444,7 +1445,7 @@
   },
   {
     "ID": 112,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 30.90639,
     "PERIMETRE": 29.72511,
     "AMPLADA": 12.36256,
@@ -1457,7 +1458,7 @@
   },
   {
     "ID": 113,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 23.68931,
     "PERIMETRE": 23.82376,
     "AMPLADA": 2.52317,
@@ -1470,7 +1471,7 @@
   },
   {
     "ID": 114,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 25.02079,
     "PERIMETRE": 27.60194,
     "AMPLADA": 11.654,
@@ -1483,7 +1484,7 @@
   },
   {
     "ID": 115,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 14.39278,
     "PERIMETRE": 18.23807,
     "AMPLADA": 7.08863,
@@ -1496,7 +1497,7 @@
   },
   {
     "ID": 116,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 36.53661,
     "PERIMETRE": 37.42765,
     "AMPLADA": 16.4994,
@@ -1509,7 +1510,7 @@
   },
   {
     "ID": 117,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 84.30915,
     "PERIMETRE": 62.76113,
     "AMPLADA": 28.41333,
@@ -1522,7 +1523,7 @@
   },
   {
     "ID": 118,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 36.50806,
     "PERIMETRE": 32.86453,
     "AMPLADA": 13.7836,
@@ -1535,7 +1536,7 @@
   },
   {
     "ID": 119,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 52.70636,
     "PERIMETRE": 46.6715,
     "AMPLADA": 2.53371,
@@ -1548,7 +1549,7 @@
   },
   {
     "ID": 120,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 40.5239,
     "PERIMETRE": 37.32371,
     "AMPLADA": 2.50874,
@@ -1561,7 +1562,7 @@
   },
   {
     "ID": 121,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 32.33892,
     "PERIMETRE": 30.07652,
     "AMPLADA": 12.43831,
@@ -1574,7 +1575,7 @@
   },
   {
     "ID": 122,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 28.52001,
     "PERIMETRE": 29.40001,
     "AMPLADA": 12.4,
@@ -1587,7 +1588,7 @@
   },
   {
     "ID": 123,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 31,
     "PERIMETRE": 29.8,
     "AMPLADA": 12.4,
@@ -1600,7 +1601,7 @@
   },
   {
     "ID": 124,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 43,
     "PERIMETRE": 39.4,
     "AMPLADA": 17.2,
@@ -1613,7 +1614,7 @@
   },
   {
     "ID": 125,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 32.83355,
     "PERIMETRE": 31.90518,
     "AMPLADA": 13.52497,
@@ -1626,7 +1627,7 @@
   },
   {
     "ID": 126,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 31.38077,
     "PERIMETRE": 35.39752,
     "AMPLADA": 15.69998,
@@ -1639,7 +1640,7 @@
   },
   {
     "ID": 127,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 27.52946,
     "PERIMETRE": 29.42392,
     "AMPLADA": 12.51165,
@@ -1652,7 +1653,7 @@
   },
   {
     "ID": 128,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 41.16618,
     "PERIMETRE": 36.25031,
     "AMPLADA": 15.4629,
@@ -1665,7 +1666,7 @@
   },
   {
     "ID": 129,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 31.12132,
     "PERIMETRE": 29.89782,
     "AMPLADA": 12.44901,
@@ -1678,7 +1679,7 @@
   },
   {
     "ID": 130,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 26.32347,
     "PERIMETRE": 26.73628,
     "AMPLADA": 10.96815,
@@ -1691,7 +1692,7 @@
   },
   {
     "ID": 131,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 31.48845,
     "PERIMETRE": 29.88109,
     "AMPLADA": 12.40145,
@@ -1704,7 +1705,7 @@
   },
   {
     "ID": 132,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 61.87262,
     "PERIMETRE": 34.60568,
     "AMPLADA": 12.25343,
@@ -1717,7 +1718,7 @@
   },
   {
     "ID": 133,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 43.44494,
     "PERIMETRE": 35.10024,
     "AMPLADA": 14.56788,
@@ -1730,7 +1731,7 @@
   },
   {
     "ID": 134,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 44.54511,
     "PERIMETRE": 38.44005,
     "AMPLADA": 16.52429,
@@ -1743,7 +1744,7 @@
   },
   {
     "ID": 135,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 33.36068,
     "PERIMETRE": 32.6001,
     "AMPLADA": 13.9,
@@ -1756,7 +1757,7 @@
   },
   {
     "ID": 136,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 29.28236,
     "PERIMETRE": 29.68518,
     "AMPLADA": 12.5,
@@ -1769,7 +1770,7 @@
   },
   {
     "ID": 137,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 38.56858,
     "PERIMETRE": 36.65568,
     "AMPLADA": 15.90253,
@@ -1782,7 +1783,7 @@
   },
   {
     "ID": 138,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 47.1004,
     "PERIMETRE": 41.91719,
     "AMPLADA": 2.56,
@@ -1795,7 +1796,7 @@
   },
   {
     "ID": 139,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 38.41079,
     "PERIMETRE": 35.9143,
     "AMPLADA": 15.47503,
@@ -1808,7 +1809,7 @@
   },
   {
     "ID": 140,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 15.04838,
     "PERIMETRE": 17.13376,
     "AMPLADA": 6.09989,
@@ -1821,7 +1822,7 @@
   },
   {
     "ID": 141,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 30.54914,
     "PERIMETRE": 28.2739,
     "AMPLADA": 11.47463,
@@ -1834,7 +1835,7 @@
   },
   {
     "ID": 142,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 43.77668,
     "PERIMETRE": 36.45711,
     "AMPLADA": 15.38272,
@@ -1847,7 +1848,7 @@
   },
   {
     "ID": 143,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 36.50708,
     "PERIMETRE": 31.43944,
     "AMPLADA": 12.88682,
@@ -1860,7 +1861,7 @@
   },
   {
     "ID": 144,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 39.43158,
     "PERIMETRE": 35.96422,
     "AMPLADA": 15.42592,
@@ -1873,7 +1874,7 @@
   },
   {
     "ID": 145,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 26.58239,
     "PERIMETRE": 25.98677,
     "AMPLADA": 10.44949,
@@ -1886,7 +1887,7 @@
   },
   {
     "ID": 146,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 30.08097,
     "PERIMETRE": 29.87327,
     "AMPLADA": 12.53732,
@@ -1899,7 +1900,7 @@
   },
   {
     "ID": 147,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 28.24521,
     "PERIMETRE": 29.35568,
     "AMPLADA": 2.27784,
@@ -1912,7 +1913,7 @@
   },
   {
     "ID": 148,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 59.49105,
     "PERIMETRE": 46.83075,
     "AMPLADA": 20.51558,
@@ -1925,7 +1926,7 @@
   },
   {
     "ID": 149,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 22.65546,
     "PERIMETRE": 24.03336,
     "AMPLADA": 9.67504,
@@ -1938,7 +1939,7 @@
   },
   {
     "ID": 150,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 20.70855,
     "PERIMETRE": 21.88451,
     "AMPLADA": 8.50834,
@@ -1951,7 +1952,7 @@
   },
   {
     "ID": 151,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 28.90254,
     "PERIMETRE": 28.67097,
     "AMPLADA": 11.90841,
@@ -1964,7 +1965,7 @@
   },
   {
     "ID": 152,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 26.44137,
     "PERIMETRE": 26.06513,
     "AMPLADA": 10.51885,
@@ -1977,7 +1978,7 @@
   },
   {
     "ID": 153,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 20,
     "PERIMETRE": 24,
     "AMPLADA": 2,
@@ -1990,7 +1991,7 @@
   },
   {
     "ID": 154,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 47.21024,
     "PERIMETRE": 40.81869,
     "AMPLADA": 17.74954,
@@ -2003,7 +2004,7 @@
   },
   {
     "ID": 155,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 48.8635,
     "PERIMETRE": 47.09,
     "AMPLADA": 21.245,
@@ -2016,7 +2017,7 @@
   },
   {
     "ID": 156,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 36.9606,
     "PERIMETRE": 35.6005,
     "AMPLADA": 15.40025,
@@ -2029,7 +2030,7 @@
   },
   {
     "ID": 157,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 29.93529,
     "PERIMETRE": 29.60829,
     "AMPLADA": 12.38759,
@@ -2042,7 +2043,7 @@
   },
   {
     "ID": 158,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 32.76172,
     "PERIMETRE": 30.08415,
     "AMPLADA": 12.4,
@@ -2055,7 +2056,7 @@
   },
   {
     "ID": 159,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 30.52969,
     "PERIMETRE": 29.78466,
     "AMPLADA": 12.43772,
@@ -2068,7 +2069,7 @@
   },
   {
     "ID": 160,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 26.35527,
     "PERIMETRE": 25.8813,
     "AMPLADA": 10.40858,
@@ -2081,7 +2082,7 @@
   },
   {
     "ID": 161,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 46.81358,
     "PERIMETRE": 41.21046,
     "AMPLADA": 18.00523,
@@ -2094,7 +2095,7 @@
   },
   {
     "ID": 162,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 43.35628,
     "PERIMETRE": 40.74201,
     "AMPLADA": 17.95648,
@@ -2107,7 +2108,7 @@
   },
   {
     "ID": 163,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 16.71536,
     "PERIMETRE": 18.54564,
     "AMPLADA": 6.82295,
@@ -2120,7 +2121,7 @@
   },
   {
     "ID": 164,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 224.16363,
     "PERIMETRE": 150.77598,
     "AMPLADA": 72.28697,
@@ -2133,7 +2134,7 @@
   },
   {
     "ID": 165,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 92.61407,
     "PERIMETRE": 65.07787,
     "AMPLADA": 29.38745,
@@ -2146,7 +2147,7 @@
   },
   {
     "ID": 166,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 48.99764,
     "PERIMETRE": 45.63137,
     "AMPLADA": 2.4,
@@ -2159,7 +2160,7 @@
   },
   {
     "ID": 167,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 38.5,
     "PERIMETRE": 35.8,
     "AMPLADA": 15.4,
@@ -2172,7 +2173,7 @@
   },
   {
     "ID": 168,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 62.22981,
     "PERIMETRE": 53.41284,
     "AMPLADA": 24.12718,
@@ -2185,7 +2186,7 @@
   },
   {
     "ID": 169,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 29.76,
     "PERIMETRE": 29.6,
     "AMPLADA": 12.4,
@@ -2198,7 +2199,7 @@
   },
   {
     "ID": 170,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 40.82967,
     "PERIMETRE": 38.33979,
     "AMPLADA": 16.72928,
@@ -2211,7 +2212,7 @@
   },
   {
     "ID": 171,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 30.38959,
     "PERIMETRE": 29.46071,
     "AMPLADA": 12.24946,
@@ -2224,7 +2225,7 @@
   },
   {
     "ID": 172,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 42.17966,
     "PERIMETRE": 30.82006,
     "AMPLADA": 11.85081,
@@ -2237,7 +2238,7 @@
   },
   {
     "ID": 173,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 45.49896,
     "PERIMETRE": 41.323,
     "AMPLADA": 18.15542,
@@ -2250,7 +2251,7 @@
   },
   {
     "ID": 174,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 57.41667,
     "PERIMETRE": 43.22271,
     "AMPLADA": 18.50932,
@@ -2263,7 +2264,7 @@
   },
   {
     "ID": 175,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 28.35364,
     "PERIMETRE": 26.41245,
     "AMPLADA": 10.50791,
@@ -2276,7 +2277,7 @@
   },
   {
     "ID": 176,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 17.82636,
     "PERIMETRE": 18.40642,
     "AMPLADA": 6.43147,
@@ -2289,7 +2290,7 @@
   },
   {
     "ID": 177,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 20.01733,
     "PERIMETRE": 20.65413,
     "AMPLADA": 7.74127,
@@ -2302,7 +2303,7 @@
   },
   {
     "ID": 178,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 30.83051,
     "PERIMETRE": 29.7903,
     "AMPLADA": 12.41103,
@@ -2315,7 +2316,7 @@
   },
   {
     "ID": 179,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 53.03065,
     "PERIMETRE": 29.13261,
     "AMPLADA": 7.4,
@@ -2328,7 +2329,7 @@
   },
   {
     "ID": 180,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 28.4873,
     "PERIMETRE": 22.35241,
     "AMPLADA": 7.24328,
@@ -2341,7 +2342,7 @@
   },
   {
     "ID": 181,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 39.42534,
     "PERIMETRE": 37.07776,
     "AMPLADA": 16.08832,
@@ -2354,7 +2355,7 @@
   },
   {
     "ID": 182,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 60.658,
     "PERIMETRE": 52.04946,
     "AMPLADA": 23.43655,
@@ -2367,7 +2368,7 @@
   },
   {
     "ID": 183,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 48.99764,
     "PERIMETRE": 45.63137,
     "AMPLADA": 2.4,
@@ -2380,7 +2381,7 @@
   },
   {
     "ID": 184,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 37.93585,
     "PERIMETRE": 36.11586,
     "AMPLADA": 15.63096,
@@ -2393,7 +2394,7 @@
   },
   {
     "ID": 185,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 41.02723,
     "PERIMETRE": 33.75143,
     "AMPLADA": 13.9306,
@@ -2406,7 +2407,7 @@
   },
   {
     "ID": 186,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 29.47812,
     "PERIMETRE": 28.31151,
     "AMPLADA": 2.53715,
@@ -2419,7 +2420,7 @@
   },
   {
     "ID": 187,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 123.09101,
     "PERIMETRE": 74.45614,
     "AMPLADA": 33.56032,
@@ -2432,7 +2433,7 @@
   },
   {
     "ID": 188,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 11.56734,
     "PERIMETRE": 14.52035,
     "AMPLADA": 4.89902,
@@ -2445,7 +2446,7 @@
   },
   {
     "ID": 189,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 24.55731,
     "PERIMETRE": 22.72765,
     "AMPLADA": 8.46162,
@@ -2458,7 +2459,7 @@
   },
   {
     "ID": 190,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 39.39637,
     "PERIMETRE": 35.7222,
     "AMPLADA": 15.28337,
@@ -2471,7 +2472,7 @@
   },
   {
     "ID": 191,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 30.93566,
     "PERIMETRE": 29.79667,
     "AMPLADA": 12.40441,
@@ -2484,7 +2485,7 @@
   },
   {
     "ID": 192,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 46.14774,
     "PERIMETRE": 38.51704,
     "AMPLADA": 16.45384,
@@ -2497,7 +2498,7 @@
   },
   {
     "ID": 193,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 45.56974,
     "PERIMETRE": 40.43128,
     "AMPLADA": 17.631,
@@ -2510,7 +2511,7 @@
   },
   {
     "ID": 194,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 28.31708,
     "PERIMETRE": 28.39757,
     "AMPLADA": 11.79878,
@@ -2523,7 +2524,7 @@
   },
   {
     "ID": 195,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 25.07592,
     "PERIMETRE": 24.74344,
     "AMPLADA": 9.81752,
@@ -2536,7 +2537,7 @@
   },
   {
     "ID": 196,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 19.8214,
     "PERIMETRE": 20.62903,
     "AMPLADA": 7.76031,
@@ -2549,7 +2550,7 @@
   },
   {
     "ID": 197,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 63.97597,
     "PERIMETRE": 51.21193,
     "AMPLADA": 22.8,
@@ -2562,7 +2563,7 @@
   },
   {
     "ID": 198,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 50.11554,
     "PERIMETRE": 45.10324,
     "AMPLADA": 20.05239,
@@ -2575,7 +2576,7 @@
   },
   {
     "ID": 199,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 40.12014,
     "PERIMETRE": 36.33582,
     "AMPLADA": 15.59534,
@@ -2588,7 +2589,7 @@
   },
   {
     "ID": 200,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 36.17588,
     "PERIMETRE": 35.49817,
     "AMPLADA": 15.4,
@@ -2601,7 +2602,7 @@
   },
   {
     "ID": 201,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 32.69855,
     "PERIMETRE": 32.05047,
     "AMPLADA": 13.62541,
@@ -2614,7 +2615,7 @@
   },
   {
     "ID": 202,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 47.0237,
     "PERIMETRE": 37.01755,
     "AMPLADA": 15.46889,
@@ -2627,7 +2628,7 @@
   },
   {
     "ID": 203,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 28.7572,
     "PERIMETRE": 29.60629,
     "AMPLADA": 12.50315,
@@ -2640,7 +2641,7 @@
   },
   {
     "ID": 204,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 37.32904,
     "PERIMETRE": 35.56827,
     "AMPLADA": 15.3527,
@@ -2653,7 +2654,7 @@
   },
   {
     "ID": 205,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 69.00612,
     "PERIMETRE": 61.76703,
     "AMPLADA": 28.45874,
@@ -2666,7 +2667,7 @@
   },
   {
     "ID": 206,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 44.21615,
     "PERIMETRE": 41.60976,
     "AMPLADA": 18.4021,
@@ -2679,7 +2680,7 @@
   },
   {
     "ID": 207,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 45.58778,
     "PERIMETRE": 42.38466,
     "AMPLADA": 18.76262,
@@ -2692,7 +2693,7 @@
   },
   {
     "ID": 208,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 34.08276,
     "PERIMETRE": 31.08415,
     "AMPLADA": 2.64207,
@@ -2705,7 +2706,7 @@
   },
   {
     "ID": 209,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 22.8,
     "PERIMETRE": 23.8,
     "AMPLADA": 9.5,
@@ -2718,7 +2719,7 @@
   },
   {
     "ID": 210,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 31.49664,
     "PERIMETRE": 30.9275,
     "AMPLADA": 13.05026,
@@ -2731,7 +2732,7 @@
   },
   {
     "ID": 211,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 62.71831,
     "PERIMETRE": 56.64316,
     "AMPLADA": 25.90002,
@@ -2744,7 +2745,7 @@
   },
   {
     "ID": 212,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 38.4031,
     "PERIMETRE": 36.22098,
     "AMPLADA": 15.65785,
@@ -2757,7 +2758,7 @@
   },
   {
     "ID": 213,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 14.04,
     "PERIMETRE": 16,
     "AMPLADA": 2.6,
@@ -2770,7 +2771,7 @@
   },
   {
     "ID": 214,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 0.36,
     "PERIMETRE": 2.6,
     "AMPLADA": 0.9,
@@ -2783,7 +2784,7 @@
   },
   {
     "ID": 215,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 0.36,
     "PERIMETRE": 2.6,
     "AMPLADA": 0.9,
@@ -2796,7 +2797,7 @@
   },
   {
     "ID": 216,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 29.76,
     "PERIMETRE": 29.6,
     "AMPLADA": 12.4,
@@ -2809,7 +2810,7 @@
   },
   {
     "ID": 217,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 20.234,
     "PERIMETRE": 21.61618,
     "AMPLADA": 2.4091,
@@ -2822,7 +2823,7 @@
   },
   {
     "ID": 218,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 69.94178,
     "PERIMETRE": 59.52703,
     "AMPLADA": 27.19131,
@@ -2835,7 +2836,7 @@
   },
   {
     "ID": 219,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 25.9137,
     "PERIMETRE": 26.32184,
     "AMPLADA": 10.75044,
@@ -2848,7 +2849,7 @@
   },
   {
     "ID": 220,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 47.6908,
     "PERIMETRE": 43.8286,
     "AMPLADA": 19.46411,
@@ -2861,7 +2862,7 @@
   },
   {
     "ID": 221,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 46.02829,
     "PERIMETRE": 48.8424,
     "AMPLADA": 22.36296,
@@ -2874,7 +2875,7 @@
   },
   {
     "ID": 222,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 21.82272,
     "PERIMETRE": 21.31693,
     "AMPLADA": 7.894,
@@ -2887,7 +2888,7 @@
   },
   {
     "ID": 223,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 48.99764,
     "PERIMETRE": 45.63137,
     "AMPLADA": 2.4,
@@ -2900,7 +2901,7 @@
   },
   {
     "ID": 224,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 41.94019,
     "PERIMETRE": 36.45408,
     "AMPLADA": 2.70134,
@@ -2913,7 +2914,7 @@
   },
   {
     "ID": 225,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 27.42067,
     "PERIMETRE": 26.8581,
     "AMPLADA": 10.9174,
@@ -2926,7 +2927,7 @@
   },
   {
     "ID": 226,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 31.09609,
     "PERIMETRE": 30.04751,
     "AMPLADA": 12.54499,
@@ -2939,7 +2940,7 @@
   },
   {
     "ID": 227,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 72.06289,
     "PERIMETRE": 47.13522,
     "AMPLADA": 19.95664,
@@ -2952,7 +2953,7 @@
   },
   {
     "ID": 228,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 61.59547,
     "PERIMETRE": 53.27092,
     "AMPLADA": 2.55825,
@@ -2965,7 +2966,7 @@
   },
   {
     "ID": 229,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 32.28118,
     "PERIMETRE": 30.75274,
     "AMPLADA": 12.86766,
@@ -2978,7 +2979,7 @@
   },
   {
     "ID": 230,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 86.44385,
     "PERIMETRE": 55.19096,
     "AMPLADA": 23.99253,
@@ -2991,7 +2992,7 @@
   },
   {
     "ID": 231,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 45.22997,
     "PERIMETRE": 45.519,
     "AMPLADA": 2.19995,
@@ -3004,7 +3005,7 @@
   },
   {
     "ID": 232,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 43.51158,
     "PERIMETRE": 45.30085,
     "AMPLADA": 20.53112,
@@ -3017,7 +3018,7 @@
   },
   {
     "ID": 233,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 11.93439,
     "PERIMETRE": 15.08206,
     "AMPLADA": 2.25976,
@@ -3030,7 +3031,7 @@
   },
   {
     "ID": 234,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 35.34252,
     "PERIMETRE": 30.86091,
     "AMPLADA": 12.63277,
@@ -3043,7 +3044,7 @@
   },
   {
     "ID": 235,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 33.68773,
     "PERIMETRE": 32.87311,
     "AMPLADA": 2.4,
@@ -3056,7 +3057,7 @@
   },
   {
     "ID": 236,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 29.55305,
     "PERIMETRE": 29.56398,
     "AMPLADA": 2.38363,
@@ -3069,7 +3070,7 @@
   },
   {
     "ID": 237,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 26.20718,
     "PERIMETRE": 26.24308,
     "AMPLADA": 10.664,
@@ -3082,7 +3083,7 @@
   },
   {
     "ID": 238,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 29.89973,
     "PERIMETRE": 29.67229,
     "AMPLADA": 12.43086,
@@ -3095,7 +3096,7 @@
   },
   {
     "ID": 239,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 94.50476,
     "PERIMETRE": 66.42825,
     "AMPLADA": 30.07145,
@@ -3108,7 +3109,7 @@
   },
   {
     "ID": 240,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 12.85376,
     "PERIMETRE": 15.45202,
     "AMPLADA": 5.30143,
@@ -3121,7 +3122,7 @@
   },
   {
     "ID": 241,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 27.36279,
     "PERIMETRE": 29.21362,
     "AMPLADA": 12.40017,
@@ -3134,7 +3135,7 @@
   },
   {
     "ID": 242,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 20.3115,
     "PERIMETRE": 21.65809,
     "AMPLADA": 8.41545,
@@ -3147,7 +3148,7 @@
   },
   {
     "ID": 243,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 16.05939,
     "PERIMETRE": 17.35651,
     "AMPLADA": 2.6752,
@@ -3160,7 +3161,7 @@
   },
   {
     "ID": 244,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 33.50328,
     "PERIMETRE": 32.66865,
     "AMPLADA": 13.92904,
@@ -3173,7 +3174,7 @@
   },
   {
     "ID": 245,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 15.46801,
     "PERIMETRE": 17.67226,
     "AMPLADA": 2.40528,
@@ -3186,7 +3187,7 @@
   },
   {
     "ID": 246,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 52.79615,
     "PERIMETRE": 48.66299,
     "AMPLADA": 21.92327,
@@ -3199,7 +3200,7 @@
   },
   {
     "ID": 247,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 32.52549,
     "PERIMETRE": 29.12619,
     "AMPLADA": 11.80874,
@@ -3212,7 +3213,7 @@
   },
   {
     "ID": 248,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 29.89973,
     "PERIMETRE": 29.67229,
     "AMPLADA": 12.43086,
@@ -3225,7 +3226,7 @@
   },
   {
     "ID": 249,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 43.2201,
     "PERIMETRE": 38.67605,
     "AMPLADA": 2.5789,
@@ -3238,7 +3239,7 @@
   },
   {
     "ID": 250,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 36.98675,
     "PERIMETRE": 34.3499,
     "AMPLADA": 14.65031,
@@ -3251,7 +3252,7 @@
   },
   {
     "ID": 251,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 29.89973,
     "PERIMETRE": 29.67229,
     "AMPLADA": 12.43086,
@@ -3264,7 +3265,7 @@
   },
   {
     "ID": 252,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 22.42233,
     "PERIMETRE": 25.50751,
     "AMPLADA": 2.10578,
@@ -3277,7 +3278,7 @@
   },
   {
     "ID": 253,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 72.82562,
     "PERIMETRE": 62.18344,
     "AMPLADA": 28.54002,
@@ -3290,7 +3291,7 @@
   },
   {
     "ID": 254,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 49.75904,
     "PERIMETRE": 42.53106,
     "AMPLADA": 18.58868,
@@ -3303,7 +3304,7 @@
   },
   {
     "ID": 255,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 26,
     "PERIMETRE": 25.8,
     "AMPLADA": 2.5,
@@ -3316,7 +3317,7 @@
   },
   {
     "ID": 256,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 23.68931,
     "PERIMETRE": 23.82376,
     "AMPLADA": 2.52317,
@@ -3329,7 +3330,7 @@
   },
   {
     "ID": 257,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 36.96242,
     "PERIMETRE": 35.60031,
     "AMPLADA": 15.4,
@@ -3342,7 +3343,7 @@
   },
   {
     "ID": 258,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 33.36218,
     "PERIMETRE": 32.60031,
     "AMPLADA": 13.9,
@@ -3355,7 +3356,7 @@
   },
   {
     "ID": 259,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 29.81972,
     "PERIMETRE": 29.65001,
     "AMPLADA": 12.42503,
@@ -3368,7 +3369,7 @@
   },
   {
     "ID": 260,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 33.78412,
     "PERIMETRE": 30.2505,
     "AMPLADA": 12.40093,
@@ -3381,7 +3382,7 @@
   },
   {
     "ID": 261,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 31.00146,
     "PERIMETRE": 29.80117,
     "AMPLADA": 12.40058,
@@ -3394,7 +3395,7 @@
   },
   {
     "ID": 262,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 33.67528,
     "PERIMETRE": 32.7678,
     "AMPLADA": 13.97405,
@@ -3407,7 +3408,7 @@
   },
   {
     "ID": 263,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 45.54552,
     "PERIMETRE": 36.38721,
     "AMPLADA": 15.1965,
@@ -3420,7 +3421,7 @@
   },
   {
     "ID": 264,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 26.37206,
     "PERIMETRE": 26.05225,
     "AMPLADA": 10.51905,
@@ -3433,7 +3434,7 @@
   },
   {
     "ID": 265,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 46.57353,
     "PERIMETRE": 43.61142,
     "AMPLADA": 19.40572,
@@ -3446,7 +3447,7 @@
   },
   {
     "ID": 266,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 52.66228,
     "PERIMETRE": 41.30354,
     "AMPLADA": 17.67174,
@@ -3459,7 +3460,7 @@
   },
   {
     "ID": 267,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 58.95972,
     "PERIMETRE": 53.74398,
     "AMPLADA": 24.46171,
@@ -3472,7 +3473,7 @@
   },
   {
     "ID": 268,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 22.56147,
     "PERIMETRE": 23.60031,
     "AMPLADA": 9.4,
@@ -3485,7 +3486,7 @@
   },
   {
     "ID": 269,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 22.56147,
     "PERIMETRE": 23.60031,
     "AMPLADA": 9.4,
@@ -3498,7 +3499,7 @@
   },
   {
     "ID": 270,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 85.73756,
     "PERIMETRE": 76.11843,
     "AMPLADA": 35.65454,
@@ -3511,7 +3512,7 @@
   },
   {
     "ID": 271,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 31.32692,
     "PERIMETRE": 26.82404,
     "AMPLADA": 10.39974,
@@ -3524,7 +3525,7 @@
   },
   {
     "ID": 272,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 36.9571,
     "PERIMETRE": 35.59758,
     "AMPLADA": 2.4,
@@ -3537,7 +3538,7 @@
   },
   {
     "ID": 273,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 26.58789,
     "PERIMETRE": 25.49821,
     "AMPLADA": 10.12249,
@@ -3550,7 +3551,7 @@
   },
   {
     "ID": 274,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 23.5,
     "PERIMETRE": 23.8,
     "AMPLADA": 9.4,
@@ -3563,7 +3564,7 @@
   },
   {
     "ID": 275,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 42.75575,
     "PERIMETRE": 37.24649,
     "AMPLADA": 15.94115,
@@ -3576,7 +3577,7 @@
   },
   {
     "ID": 276,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 27.56054,
     "PERIMETRE": 29.43869,
     "AMPLADA": 12.5176,
@@ -3589,7 +3590,7 @@
   },
   {
     "ID": 277,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 73.97834,
     "PERIMETRE": 36.76509,
     "AMPLADA": 12.43182,
@@ -3602,7 +3603,7 @@
   },
   {
     "ID": 278,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 22.97742,
     "PERIMETRE": 24.58037,
     "AMPLADA": 2.3,
@@ -3615,7 +3616,7 @@
   },
   {
     "ID": 279,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 53.99648,
     "PERIMETRE": 49.79755,
     "AMPLADA": 22.4988,
@@ -3628,7 +3629,7 @@
   },
   {
     "ID": 280,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 24.646,
     "PERIMETRE": 26.48961,
     "AMPLADA": 11.00535,
@@ -3641,7 +3642,7 @@
   },
   {
     "ID": 281,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 80.30155,
     "PERIMETRE": 64.81508,
     "AMPLADA": 29.70416,
@@ -3654,7 +3655,7 @@
   },
   {
     "ID": 282,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 21.5004,
     "PERIMETRE": 21.91719,
     "AMPLADA": 2.56,
@@ -3667,7 +3668,7 @@
   },
   {
     "ID": 283,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 24.2865,
     "PERIMETRE": 25.47048,
     "AMPLADA": 10.4,
@@ -3680,7 +3681,7 @@
   },
   {
     "ID": 284,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 82.41684,
     "PERIMETRE": 70.85076,
     "AMPLADA": 32.92198,
@@ -3693,7 +3694,7 @@
   },
   {
     "ID": 285,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 29.58292,
     "PERIMETRE": 30.83221,
     "AMPLADA": 13.16985,
@@ -3706,7 +3707,7 @@
   },
   {
     "ID": 286,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 63.05518,
     "PERIMETRE": 46.71924,
     "AMPLADA": 20.24502,
@@ -3719,7 +3720,7 @@
   },
   {
     "ID": 287,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 29.31336,
     "PERIMETRE": 28.86873,
     "AMPLADA": 11.98943,
@@ -3732,7 +3733,7 @@
   },
   {
     "ID": 288,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 95.85007,
     "PERIMETRE": 83.64677,
     "AMPLADA": 39.39003,
@@ -3745,7 +3746,7 @@
   },
   {
     "ID": 289,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 37.8939,
     "PERIMETRE": 36.27392,
     "AMPLADA": 15.72757,
@@ -3758,7 +3759,7 @@
   },
   {
     "ID": 290,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 34.60875,
     "PERIMETRE": 33.64102,
     "AMPLADA": 14.42055,
@@ -3771,7 +3772,7 @@
   },
   {
     "ID": 291,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 36.28325,
     "PERIMETRE": 40.757,
     "AMPLADA": 18.40737,
@@ -3784,7 +3785,7 @@
   },
   {
     "ID": 292,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 36.96242,
     "PERIMETRE": 35.60031,
     "AMPLADA": 15.4,
@@ -3797,7 +3798,7 @@
   },
   {
     "ID": 293,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 63.05518,
     "PERIMETRE": 46.71924,
     "AMPLADA": 20.24502,
@@ -3810,7 +3811,7 @@
   },
   {
     "ID": 294,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 57.93327,
     "PERIMETRE": 46.20623,
     "AMPLADA": 20.24093,
@@ -3823,7 +3824,7 @@
   },
   {
     "ID": 295,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 39.57479,
     "PERIMETRE": 37.78268,
     "AMPLADA": 16.49166,
@@ -3836,7 +3837,7 @@
   },
   {
     "ID": 296,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 31.00146,
     "PERIMETRE": 29.80117,
     "AMPLADA": 12.40058,
@@ -3849,7 +3850,7 @@
   },
   {
     "ID": 297,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 31.12132,
     "PERIMETRE": 29.89782,
     "AMPLADA": 12.44901,
@@ -3862,7 +3863,7 @@
   },
   {
     "ID": 298,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 67.15473,
     "PERIMETRE": 55.02528,
     "AMPLADA": 24.80537,
@@ -3875,7 +3876,7 @@
   },
   {
     "ID": 299,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 24.03672,
     "PERIMETRE": 23.69019,
     "AMPLADA": 9.24517,
@@ -3888,7 +3889,7 @@
   },
   {
     "ID": 300,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 24.03672,
     "PERIMETRE": 23.69019,
     "AMPLADA": 9.24517,
@@ -3901,7 +3902,7 @@
   },
   {
     "ID": 301,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 52.52,
     "PERIMETRE": 45.6,
     "AMPLADA": 20.2,
@@ -3914,7 +3915,7 @@
   },
   {
     "ID": 302,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 30.87839,
     "PERIMETRE": 28.27265,
     "AMPLADA": 11.43629,
@@ -3927,7 +3928,7 @@
   },
   {
     "ID": 303,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 30.87839,
     "PERIMETRE": 28.27265,
     "AMPLADA": 11.43629,
@@ -3940,7 +3941,7 @@
   },
   {
     "ID": 304,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 30.87839,
     "PERIMETRE": 28.27265,
     "AMPLADA": 11.43629,
@@ -3953,7 +3954,7 @@
   },
   {
     "ID": 305,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 39.3743,
     "PERIMETRE": 37.61192,
     "AMPLADA": 16.40596,
@@ -3966,7 +3967,7 @@
   },
   {
     "ID": 306,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 20.15486,
     "PERIMETRE": 21.6078,
     "AMPLADA": 8.40631,
@@ -3979,7 +3980,7 @@
   },
   {
     "ID": 307,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 15.36007,
     "PERIMETRE": 17.60002,
     "AMPLADA": 2.40001,
@@ -3992,7 +3993,7 @@
   },
   {
     "ID": 308,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 48.96,
     "PERIMETRE": 45.6,
     "AMPLADA": 20.4,
@@ -4005,7 +4006,7 @@
   },
   {
     "ID": 309,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 20.56265,
     "PERIMETRE": 21.88704,
     "AMPLADA": 2.40949,
@@ -4018,7 +4019,7 @@
   },
   {
     "ID": 310,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 51.16848,
     "PERIMETRE": 45.81561,
     "AMPLADA": 20.39948,
@@ -4031,7 +4032,7 @@
   },
   {
     "ID": 311,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 59.70102,
     "PERIMETRE": 54.05769,
     "AMPLADA": 24.60219,
@@ -4044,7 +4045,7 @@
   },
   {
     "ID": 312,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 69.73216,
     "PERIMETRE": 61.72252,
     "AMPLADA": 28.40646,
@@ -4057,7 +4058,7 @@
   },
   {
     "ID": 313,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 35.47503,
     "PERIMETRE": 35.44785,
     "AMPLADA": 2.3,
@@ -4070,7 +4071,7 @@
   },
   {
     "ID": 314,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 35.47503,
     "PERIMETRE": 35.44785,
     "AMPLADA": 2.3,
@@ -4083,7 +4084,7 @@
   },
   {
     "ID": 315,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 39.36,
     "PERIMETRE": 37.6,
     "AMPLADA": 16.4,
@@ -4096,7 +4097,7 @@
   },
   {
     "ID": 316,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 29.76,
     "PERIMETRE": 29.6,
     "AMPLADA": 2.4,
@@ -4109,7 +4110,7 @@
   },
   {
     "ID": 317,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 26.07808,
     "PERIMETRE": 26.53175,
     "AMPLADA": 10.86588,
@@ -4122,7 +4123,7 @@
   },
   {
     "ID": 318,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 49.01521,
     "PERIMETRE": 48.81578,
     "AMPLADA": 22.2,
@@ -4135,7 +4136,7 @@
   },
   {
     "ID": 319,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 29.76,
     "PERIMETRE": 29.6,
     "AMPLADA": 2.4,
@@ -4148,7 +4149,7 @@
   },
   {
     "ID": 320,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 18.24,
     "PERIMETRE": 20,
     "AMPLADA": 7.6,
@@ -4161,7 +4162,7 @@
   },
   {
     "ID": 321,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 87.36,
     "PERIMETRE": 77.6,
     "AMPLADA": 36.4,
@@ -4174,7 +4175,7 @@
   },
   {
     "ID": 322,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 44.38654,
     "PERIMETRE": 34.61081,
     "AMPLADA": 14.17382,
@@ -4187,7 +4188,7 @@
   },
   {
     "ID": 323,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 44.36479,
     "PERIMETRE": 40.24267,
     "AMPLADA": 17.60071,
@@ -4200,7 +4201,7 @@
   },
   {
     "ID": 324,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 42.57826,
     "PERIMETRE": 36.37684,
     "AMPLADA": 15.42875,
@@ -4213,7 +4214,7 @@
   },
   {
     "ID": 325,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 26.05255,
     "PERIMETRE": 26.47271,
     "AMPLADA": 10.83098,
@@ -4226,7 +4227,7 @@
   },
   {
     "ID": 326,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 28.79831,
     "PERIMETRE": 26.30587,
     "AMPLADA": 2.77494,
@@ -4239,7 +4240,7 @@
   },
   {
     "ID": 327,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 33.06887,
     "PERIMETRE": 34.16224,
     "AMPLADA": 14.85501,
@@ -4252,7 +4253,7 @@
   },
   {
     "ID": 328,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 24.96,
     "PERIMETRE": 25.6,
     "AMPLADA": 10.4,
@@ -4265,7 +4266,7 @@
   },
   {
     "ID": 329,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 69.68,
     "PERIMETRE": 58.8,
     "AMPLADA": 26.8,
@@ -4278,7 +4279,7 @@
   },
   {
     "ID": 330,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 22.06334,
     "PERIMETRE": 22.10606,
     "AMPLADA": 8.43839,
@@ -4291,7 +4292,7 @@
   },
   {
     "ID": 331,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 34.56,
     "PERIMETRE": 33.6,
     "AMPLADA": 14.4,
@@ -4304,7 +4305,7 @@
   },
   {
     "ID": 332,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 57.41667,
     "PERIMETRE": 43.22271,
     "AMPLADA": 18.50932,
@@ -4317,7 +4318,7 @@
   },
   {
     "ID": 333,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 44.99677,
     "PERIMETRE": 42.04773,
     "AMPLADA": 18.60538,
@@ -4330,7 +4331,7 @@
   },
   {
     "ID": 334,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 31.68054,
     "PERIMETRE": 31.20045,
     "AMPLADA": 2.4,
@@ -4343,7 +4344,7 @@
   },
   {
     "ID": 335,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 33.88842,
     "PERIMETRE": 23.95888,
     "AMPLADA": 7.39981,
@@ -4356,7 +4357,7 @@
   },
   {
     "ID": 336,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 24.33331,
     "PERIMETRE": 25.18469,
     "AMPLADA": 2.38357,
@@ -4369,7 +4370,7 @@
   },
   {
     "ID": 337,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 50.14509,
     "PERIMETRE": 43.22675,
     "AMPLADA": 18.96998,
@@ -4382,7 +4383,7 @@
   },
   {
     "ID": 338,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 27.54476,
     "PERIMETRE": 25.39967,
     "AMPLADA": 9.92437,
@@ -4395,7 +4396,7 @@
   },
   {
     "ID": 339,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 52.26193,
     "PERIMETRE": 41.13555,
     "AMPLADA": 17.59801,
@@ -4408,7 +4409,7 @@
   },
   {
     "ID": 340,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 48.96,
     "PERIMETRE": 45.6,
     "AMPLADA": 20.4,
@@ -4421,7 +4422,7 @@
   },
   {
     "ID": 341,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 45.19893,
     "PERIMETRE": 36.72603,
     "AMPLADA": 15.4346,
@@ -4434,7 +4435,7 @@
   },
   {
     "ID": 342,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 56.52786,
     "PERIMETRE": 50.77528,
     "AMPLADA": 22.92149,
@@ -4447,7 +4448,7 @@
   },
   {
     "ID": 343,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 62.64258,
     "PERIMETRE": 55.73249,
     "AMPLADA": 25.4,
@@ -4460,7 +4461,7 @@
   },
   {
     "ID": 344,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 39.36075,
     "PERIMETRE": 37.60009,
     "AMPLADA": 16.4,
@@ -4473,7 +4474,7 @@
   },
   {
     "ID": 345,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 15.87808,
     "PERIMETRE": 17.64607,
     "AMPLADA": 6.3045,
@@ -4486,7 +4487,7 @@
   },
   {
     "ID": 346,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 36.96,
     "PERIMETRE": 35.6,
     "AMPLADA": 15.4,
@@ -4499,7 +4500,7 @@
   },
   {
     "ID": 347,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 57.28649,
     "PERIMETRE": 50.73981,
     "AMPLADA": 22.86442,
@@ -4512,7 +4513,7 @@
   },
   {
     "ID": 348,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 39.36,
     "PERIMETRE": 37.6,
     "AMPLADA": 16.4,
@@ -4525,7 +4526,7 @@
   },
   {
     "ID": 349,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 30.36222,
     "PERIMETRE": 31.00193,
     "AMPLADA": 2.3,
@@ -4538,7 +4539,7 @@
   },
   {
     "ID": 350,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 26.48372,
     "PERIMETRE": 28.11329,
     "AMPLADA": 11.81514,
@@ -4551,7 +4552,7 @@
   },
   {
     "ID": 351,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 28.90254,
     "PERIMETRE": 28.67097,
     "AMPLADA": 11.90841,
@@ -4564,7 +4565,7 @@
   },
   {
     "ID": 352,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 120.96807,
     "PERIMETRE": 105.60687,
     "AMPLADA": 50.40344,
@@ -4577,7 +4578,7 @@
   },
   {
     "ID": 353,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 157.84293,
     "PERIMETRE": 66.06179,
     "AMPLADA": 27.23539,
@@ -4590,7 +4591,7 @@
   },
   {
     "ID": 354,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 29.76,
     "PERIMETRE": 29.6,
     "AMPLADA": 12.4,
@@ -4603,7 +4604,7 @@
   },
   {
     "ID": 355,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 39.545,
     "PERIMETRE": 37.77546,
     "AMPLADA": 16.48955,
@@ -4616,7 +4617,7 @@
   },
   {
     "ID": 356,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 31.09837,
     "PERIMETRE": 29.89971,
     "AMPLADA": 12.45249,
@@ -4629,7 +4630,7 @@
   },
   {
     "ID": 357,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 20.16,
     "PERIMETRE": 21.6,
     "AMPLADA": 2.4,
@@ -4642,7 +4643,7 @@
   },
   {
     "ID": 358,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 29.76,
     "PERIMETRE": 29.6,
     "AMPLADA": 12.4,
@@ -4655,7 +4656,7 @@
   },
   {
     "ID": 359,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 43.1613,
     "PERIMETRE": 39.40238,
     "AMPLADA": 17.19041,
@@ -4668,7 +4669,7 @@
   },
   {
     "ID": 360,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 34.14716,
     "PERIMETRE": 26.59315,
     "AMPLADA": 9.81886,
@@ -4681,7 +4682,7 @@
   },
   {
     "ID": 361,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 64.81415,
     "PERIMETRE": 35.30515,
     "AMPLADA": 12.44419,
@@ -4694,7 +4695,7 @@
   },
   {
     "ID": 362,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 30.36222,
     "PERIMETRE": 31.00193,
     "AMPLADA": 2.3,
@@ -4707,7 +4708,7 @@
   },
   {
     "ID": 363,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 40.76573,
     "PERIMETRE": 38.50634,
     "AMPLADA": 16.83112,
@@ -4720,7 +4721,7 @@
   },
   {
     "ID": 364,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 53.02219,
     "PERIMETRE": 41.83073,
     "AMPLADA": 17.96374,
@@ -4733,7 +4734,7 @@
   },
   {
     "ID": 365,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 82.02798,
     "PERIMETRE": 44.24723,
     "AMPLADA": 17.41284,
@@ -4746,7 +4747,7 @@
   },
   {
     "ID": 366,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 28.82918,
     "PERIMETRE": 22.12336,
     "AMPLADA": 4.20381,
@@ -4759,7 +4760,7 @@
   },
   {
     "ID": 367,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 33.37074,
     "PERIMETRE": 24.40378,
     "AMPLADA": 8.06329,
@@ -4772,7 +4773,7 @@
   },
   {
     "ID": 368,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 41.88236,
     "PERIMETRE": 36.77702,
     "AMPLADA": 15.7251,
@@ -4785,7 +4786,7 @@
   },
   {
     "ID": 369,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 29.07811,
     "PERIMETRE": 27.95991,
     "AMPLADA": 11.43764,
@@ -4798,7 +4799,7 @@
   },
   {
     "ID": 370,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 46.72873,
     "PERIMETRE": 41.02106,
     "AMPLADA": 17.89999,
@@ -4811,7 +4812,7 @@
   },
   {
     "ID": 371,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 30.18789,
     "PERIMETRE": 29.66902,
     "AMPLADA": 12.4,
@@ -4824,7 +4825,7 @@
   },
   {
     "ID": 372,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 22.82188,
     "PERIMETRE": 22.30681,
     "AMPLADA": 8.4538,
@@ -4837,7 +4838,7 @@
   },
   {
     "ID": 373,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 35.26691,
     "PERIMETRE": 34.02649,
     "AMPLADA": 14.59725,
@@ -4850,7 +4851,7 @@
   },
   {
     "ID": 374,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 33.34198,
     "PERIMETRE": 31.51836,
     "AMPLADA": 13.24112,
@@ -4863,7 +4864,7 @@
   },
   {
     "ID": 375,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 45.31877,
     "PERIMETRE": 38.79382,
     "AMPLADA": 16.67995,
@@ -4876,7 +4877,7 @@
   },
   {
     "ID": 376,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 34.56,
     "PERIMETRE": 33.6,
     "AMPLADA": 2.4,
@@ -4889,7 +4890,7 @@
   },
   {
     "ID": 377,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 0.36,
     "PERIMETRE": 2.6,
     "AMPLADA": 0.9,
@@ -4902,7 +4903,7 @@
   },
   {
     "ID": 378,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 0.36,
     "PERIMETRE": 2.6,
     "AMPLADA": 0.9,
@@ -4915,7 +4916,7 @@
   },
   {
     "ID": 379,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 42.27108,
     "PERIMETRE": 36.71861,
     "AMPLADA": 2.6993,
@@ -4928,7 +4929,7 @@
   },
   {
     "ID": 380,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 45.03378,
     "PERIMETRE": 38.77435,
     "AMPLADA": 2.69846,
@@ -4941,7 +4942,7 @@
   },
   {
     "ID": 381,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 37.44383,
     "PERIMETRE": 34.75844,
     "AMPLADA": 14.85933,
@@ -4954,7 +4955,7 @@
   },
   {
     "ID": 382,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 15.9649,
     "PERIMETRE": 17.97625,
     "AMPLADA": 6.55117,
@@ -4967,7 +4968,7 @@
   },
   {
     "ID": 383,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 39.43109,
     "PERIMETRE": 35.82185,
     "AMPLADA": 15.34054,
@@ -4980,7 +4981,7 @@
   },
   {
     "ID": 384,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 30.7227,
     "PERIMETRE": 26.72924,
     "AMPLADA": 10.41468,
@@ -4993,7 +4994,7 @@
   },
   {
     "ID": 385,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 35.35222,
     "PERIMETRE": 30.11669,
     "AMPLADA": 12.14829,
@@ -5006,7 +5007,7 @@
   },
   {
     "ID": 386,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 64.75489,
     "PERIMETRE": 58.77855,
     "AMPLADA": 26.99006,
@@ -5019,7 +5020,7 @@
   },
   {
     "ID": 387,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 26.1609,
     "PERIMETRE": 26.60075,
     "AMPLADA": 10.90038,
@@ -5032,7 +5033,7 @@
   },
   {
     "ID": 388,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 32.51157,
     "PERIMETRE": 29.74835,
     "AMPLADA": 12.21189,
@@ -5045,7 +5046,7 @@
   },
   {
     "ID": 389,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 25.13926,
     "PERIMETRE": 25.61415,
     "AMPLADA": 10.38676,
@@ -5058,7 +5059,7 @@
   },
   {
     "ID": 390,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 36.17588,
     "PERIMETRE": 35.49817,
     "AMPLADA": 2.34908,
@@ -5071,7 +5072,7 @@
   },
   {
     "ID": 391,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 37.79673,
     "PERIMETRE": 35.88571,
     "AMPLADA": 15.50517,
@@ -5084,7 +5085,7 @@
   },
   {
     "ID": 392,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 42.27108,
     "PERIMETRE": 36.71861,
     "AMPLADA": 2.6993,
@@ -5097,7 +5098,7 @@
   },
   {
     "ID": 393,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 41.56715,
     "PERIMETRE": 38.96388,
     "AMPLADA": 2.43896,
@@ -5110,7 +5111,7 @@
   },
   {
     "ID": 394,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 43.44,
     "PERIMETRE": 41,
     "AMPLADA": 18.1,
@@ -5123,7 +5124,7 @@
   },
   {
     "ID": 395,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 29.80975,
     "PERIMETRE": 29.60801,
     "AMPLADA": 12.39999,
@@ -5136,7 +5137,7 @@
   },
   {
     "ID": 396,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 45.33291,
     "PERIMETRE": 35.76414,
     "AMPLADA": 14.82399,
@@ -5149,7 +5150,7 @@
   },
   {
     "ID": 397,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 34.08276,
     "PERIMETRE": 31.08415,
     "AMPLADA": 2.64207,
@@ -5162,7 +5163,7 @@
   },
   {
     "ID": 398,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 18.96102,
     "PERIMETRE": 21.31453,
     "AMPLADA": 8.4,
@@ -5175,7 +5176,7 @@
   },
   {
     "ID": 399,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 40.07663,
     "PERIMETRE": 36.04706,
     "AMPLADA": 15.42545,
@@ -5188,7 +5189,7 @@
   },
   {
     "ID": 400,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 70.56,
     "PERIMETRE": 63.6,
     "AMPLADA": 29.4,
@@ -5201,7 +5202,7 @@
   },
   {
     "ID": 401,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 32.90355,
     "PERIMETRE": 27.49837,
     "AMPLADA": 10.66359,
@@ -5214,7 +5215,7 @@
   },
   {
     "ID": 402,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 28.91772,
     "PERIMETRE": 28.66923,
     "AMPLADA": 11.90572,
@@ -5227,7 +5228,7 @@
   },
   {
     "ID": 403,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 33.84,
     "PERIMETRE": 33,
     "AMPLADA": 14.1,
@@ -5240,7 +5241,7 @@
   },
   {
     "ID": 404,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 2.36,
     "PERIMETRE": 12.6,
     "AMPLADA": 5.9,
@@ -5253,7 +5254,7 @@
   },
   {
     "ID": 405,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 39.51405,
     "PERIMETRE": 31.92621,
     "AMPLADA": 12.9,
@@ -5266,7 +5267,7 @@
   },
   {
     "ID": 406,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 41.9087,
     "PERIMETRE": 33.2382,
     "AMPLADA": 13.51915,
@@ -5279,7 +5280,7 @@
   },
   {
     "ID": 407,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 0.29818,
     "PERIMETRE": 2.29119,
     "AMPLADA": 0.74577,
@@ -5292,7 +5293,7 @@
   },
   {
     "ID": 408,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 0.15608,
     "PERIMETRE": 1.5803,
     "AMPLADA": 0.39508,
@@ -5305,7 +5306,7 @@
   },
   {
     "ID": 409,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 21.74897,
     "PERIMETRE": 22.39919,
     "AMPLADA": 8.6996,
@@ -5318,7 +5319,7 @@
   },
   {
     "ID": 410,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 24.24874,
     "PERIMETRE": 24.39899,
     "AMPLADA": 9.6995,
@@ -5331,7 +5332,7 @@
   },
   {
     "ID": 411,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 26.15096,
     "PERIMETRE": 25.64578,
     "AMPLADA": 10.2787,
@@ -5344,7 +5345,7 @@
   },
   {
     "ID": 412,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 42.76971,
     "PERIMETRE": 39.50387,
     "AMPLADA": 17.27631,
@@ -5357,7 +5358,7 @@
   },
   {
     "ID": 413,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 35.5694,
     "PERIMETRE": 33.58349,
     "AMPLADA": 14.3053,
@@ -5370,7 +5371,7 @@
   },
   {
     "ID": 414,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 27.52733,
     "PERIMETRE": 27.02187,
     "AMPLADA": 11.01093,
@@ -5383,7 +5384,7 @@
   },
   {
     "ID": 415,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 42.62752,
     "PERIMETRE": 39.10204,
     "AMPLADA": 17.05102,
@@ -5396,7 +5397,7 @@
   },
   {
     "ID": 416,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 43.35073,
     "PERIMETRE": 39.68058,
     "AMPLADA": 17.34029,
@@ -5409,7 +5410,7 @@
   },
   {
     "ID": 417,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 29.78414,
     "PERIMETRE": 29.60389,
     "AMPLADA": 12.4,
@@ -5422,7 +5423,7 @@
   },
   {
     "ID": 418,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 23.76,
     "PERIMETRE": 24.6,
     "AMPLADA": 9.9,
@@ -5435,7 +5436,7 @@
   },
   {
     "ID": 419,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 26.04554,
     "PERIMETRE": 26.31371,
     "AMPLADA": 10.72935,
@@ -5448,7 +5449,7 @@
   },
   {
     "ID": 420,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 26.04554,
     "PERIMETRE": 26.31371,
     "AMPLADA": 10.72935,
@@ -5461,7 +5462,7 @@
   },
   {
     "ID": 421,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 87.84141,
     "PERIMETRE": 43.33448,
     "AMPLADA": 16.2674,
@@ -5474,7 +5475,7 @@
   },
   {
     "ID": 422,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 46.92049,
     "PERIMETRE": 45.48833,
     "AMPLADA": 20.44974,
@@ -5487,7 +5488,7 @@
   },
   {
     "ID": 423,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 36.96,
     "PERIMETRE": 35.6,
     "AMPLADA": 15.4,
@@ -5500,7 +5501,7 @@
   },
   {
     "ID": 424,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 64.81415,
     "PERIMETRE": 35.30515,
     "AMPLADA": 12.44419,
@@ -5513,7 +5514,7 @@
   },
   {
     "ID": 425,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 0.24,
     "PERIMETRE": 2,
     "AMPLADA": 0.6,
@@ -5526,7 +5527,7 @@
   },
   {
     "ID": 426,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 26.10429,
     "PERIMETRE": 26.58324,
     "AMPLADA": 10.89581,
@@ -5539,7 +5540,7 @@
   },
   {
     "ID": 427,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 32.22994,
     "PERIMETRE": 31.66157,
     "AMPLADA": 13.43114,
@@ -5552,7 +5553,7 @@
   },
   {
     "ID": 428,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 29.76,
     "PERIMETRE": 29.6,
     "AMPLADA": 2.4,
@@ -5565,7 +5566,7 @@
   },
   {
     "ID": 429,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 37.25501,
     "PERIMETRE": 35.7605,
     "AMPLADA": 15.47242,
@@ -5578,7 +5579,7 @@
   },
   {
     "ID": 430,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 71.5208,
     "PERIMETRE": 56.43698,
     "AMPLADA": 25.40305,
@@ -5591,7 +5592,7 @@
   },
   {
     "ID": 431,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 29.45624,
     "PERIMETRE": 29.34687,
     "AMPLADA": 12.27343,
@@ -5604,7 +5605,7 @@
   },
   {
     "ID": 432,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 34.56,
     "PERIMETRE": 33.6,
     "AMPLADA": 14.4,
@@ -5617,7 +5618,7 @@
   },
   {
     "ID": 433,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 36.96,
     "PERIMETRE": 35.6,
     "AMPLADA": 15.4,
@@ -5630,7 +5631,7 @@
   },
   {
     "ID": 434,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 36.03303,
     "PERIMETRE": 30.59979,
     "AMPLADA": 12.39217,
@@ -5643,7 +5644,7 @@
   },
   {
     "ID": 435,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 42.50849,
     "PERIMETRE": 40.24164,
     "AMPLADA": 17.72222,
@@ -5656,7 +5657,7 @@
   },
   {
     "ID": 436,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 0.36,
     "PERIMETRE": 2.6,
     "AMPLADA": 0.9,
@@ -5669,7 +5670,7 @@
   },
   {
     "ID": 437,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 0.36,
     "PERIMETRE": 2.6,
     "AMPLADA": 0.9,
@@ -5682,7 +5683,7 @@
   },
   {
     "ID": 438,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 0.36,
     "PERIMETRE": 2.6,
     "AMPLADA": 0.9,
@@ -5695,7 +5696,7 @@
   },
   {
     "ID": 439,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 0.36,
     "PERIMETRE": 2.6,
     "AMPLADA": 0.9,
@@ -5708,7 +5709,7 @@
   },
   {
     "ID": 440,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 31.24737,
     "PERIMETRE": 26.93974,
     "AMPLADA": 10.49152,
@@ -5721,7 +5722,7 @@
   },
   {
     "ID": 441,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 28.51591,
     "PERIMETRE": 26.28383,
     "AMPLADA": 10.4,
@@ -5734,7 +5735,7 @@
   },
   {
     "ID": 442,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 22.56,
     "PERIMETRE": 23.6,
     "AMPLADA": 9.4,
@@ -5747,7 +5748,7 @@
   },
   {
     "ID": 443,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 40.56606,
     "PERIMETRE": 39.1098,
     "AMPLADA": 17.19584,
@@ -5760,7 +5761,7 @@
   },
   {
     "ID": 444,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 0.36,
     "PERIMETRE": 2.6,
     "AMPLADA": 0.9,
@@ -5773,7 +5774,7 @@
   },
   {
     "ID": 445,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 0.36,
     "PERIMETRE": 2.6,
     "AMPLADA": 0.9,
@@ -5786,7 +5787,7 @@
   },
   {
     "ID": 446,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 37.049,
     "PERIMETRE": 35.61156,
     "AMPLADA": 2.40578,
@@ -5799,7 +5800,7 @@
   },
   {
     "ID": 447,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 0.19906,
     "PERIMETRE": 1.79529,
     "AMPLADA": 0.49764,
@@ -5812,7 +5813,7 @@
   },
   {
     "ID": 448,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 0.21856,
     "PERIMETRE": 1.89281,
     "AMPLADA": 0.54641,
@@ -5825,7 +5826,7 @@
   },
   {
     "ID": 449,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 0.2322,
     "PERIMETRE": 1.96102,
     "AMPLADA": 0.58051,
@@ -5838,7 +5839,7 @@
   },
   {
     "ID": 450,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 0.21211,
     "PERIMETRE": 1.86055,
     "AMPLADA": 0.53027,
@@ -5851,7 +5852,7 @@
   },
   {
     "ID": 451,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 0.20873,
     "PERIMETRE": 1.84367,
     "AMPLADA": 0.52184,
@@ -5864,7 +5865,7 @@
   },
   {
     "ID": 452,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 51.67699,
     "PERIMETRE": 45.86637,
     "AMPLADA": 2.53319,
@@ -5877,7 +5878,7 @@
   },
   {
     "ID": 453,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 41.40806,
     "PERIMETRE": 36.17767,
     "AMPLADA": 2.68883,
@@ -5890,7 +5891,7 @@
   },
   {
     "ID": 454,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 51.5347,
     "PERIMETRE": 47.79865,
     "AMPLADA": 21.50266,
@@ -5903,7 +5904,7 @@
   },
   {
     "ID": 455,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 23.31289,
     "PERIMETRE": 24.22741,
     "AMPLADA": 9.7137,
@@ -5916,7 +5917,7 @@
   },
   {
     "ID": 456,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 40.82165,
     "PERIMETRE": 37.77825,
     "AMPLADA": 16.4,
@@ -5929,7 +5930,7 @@
   },
   {
     "ID": 457,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 44.50241,
     "PERIMETRE": 41.63722,
     "AMPLADA": 2.41861,
@@ -5942,7 +5943,7 @@
   },
   {
     "ID": 458,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 44.50241,
     "PERIMETRE": 41.63722,
     "AMPLADA": 18.4,
@@ -5955,7 +5956,7 @@
   },
   {
     "ID": 459,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 29.51468,
     "PERIMETRE": 28.74943,
     "AMPLADA": 11.89304,
@@ -5968,7 +5969,7 @@
   },
   {
     "ID": 460,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 45.64598,
     "PERIMETRE": 41.79882,
     "AMPLADA": 18.42156,
@@ -5981,7 +5982,7 @@
   },
   {
     "ID": 461,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 35.90817,
     "PERIMETRE": 33.86197,
     "AMPLADA": 14.44516,
@@ -5994,7 +5995,7 @@
   },
   {
     "ID": 462,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 44.66,
     "PERIMETRE": 36.6,
     "AMPLADA": 15.4,
@@ -6007,7 +6008,7 @@
   },
   {
     "ID": 463,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 24.96,
     "PERIMETRE": 25.6,
     "AMPLADA": 2.4,
@@ -6020,7 +6021,7 @@
   },
   {
     "ID": 464,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 31.6139,
     "PERIMETRE": 31.14652,
     "AMPLADA": 13.17344,
@@ -6033,7 +6034,7 @@
   },
   {
     "ID": 465,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 29.76,
     "PERIMETRE": 29.6,
     "AMPLADA": 12.4,
@@ -6046,7 +6047,7 @@
   },
   {
     "ID": 466,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 32.7837,
     "PERIMETRE": 29.46757,
     "AMPLADA": 12.00235,
@@ -6059,7 +6060,7 @@
   },
   {
     "ID": 467,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 32.58043,
     "PERIMETRE": 35.02735,
     "AMPLADA": 15.39775,
@@ -6072,7 +6073,7 @@
   },
   {
     "ID": 468,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 32.58046,
     "PERIMETRE": 35.02738,
     "AMPLADA": 15.39777,
@@ -6085,7 +6086,7 @@
   },
   {
     "ID": 469,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 11.85644,
     "PERIMETRE": 14.68146,
     "AMPLADA": 4.94124,
@@ -6098,7 +6099,7 @@
   },
   {
     "ID": 470,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 17.37013,
     "PERIMETRE": 19.09299,
     "AMPLADA": 7.1,
@@ -6111,7 +6112,7 @@
   },
   {
     "ID": 471,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 51.54436,
     "PERIMETRE": 42.41865,
     "AMPLADA": 18.40944,
@@ -6124,7 +6125,7 @@
   },
   {
     "ID": 472,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 54.23172,
     "PERIMETRE": 47.69993,
     "AMPLADA": 21.3044,
@@ -6137,7 +6138,7 @@
   },
   {
     "ID": 473,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 35.35222,
     "PERIMETRE": 30.11669,
     "AMPLADA": 12.14829,
@@ -6150,7 +6151,7 @@
   },
   {
     "ID": 474,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 73.03245,
     "PERIMETRE": 65.60477,
     "AMPLADA": 2.40238,
@@ -6163,7 +6164,7 @@
   },
   {
     "ID": 475,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 48.96936,
     "PERIMETRE": 45.6078,
     "AMPLADA": 2.4,
@@ -6176,7 +6177,7 @@
   },
   {
     "ID": 476,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 26.27728,
     "PERIMETRE": 25.89502,
     "AMPLADA": 10.42752,
@@ -6189,7 +6190,7 @@
   },
   {
     "ID": 477,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 36.31031,
     "PERIMETRE": 30.62915,
     "AMPLADA": 12.38209,
@@ -6202,7 +6203,7 @@
   },
   {
     "ID": 478,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 35.53737,
     "PERIMETRE": 35.53588,
     "AMPLADA": 15.4709,
@@ -6215,7 +6216,7 @@
   },
   {
     "ID": 479,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 12.96282,
     "PERIMETRE": 16.85709,
     "AMPLADA": 6.40454,
@@ -6228,7 +6229,7 @@
   },
   {
     "ID": 480,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 46.81358,
     "PERIMETRE": 41.21046,
     "AMPLADA": 18.00523,
@@ -6241,7 +6242,7 @@
   },
   {
     "ID": 481,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 48.70062,
     "PERIMETRE": 49.28201,
     "AMPLADA": 22.47403,
@@ -6254,7 +6255,7 @@
   },
   {
     "ID": 482,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 20,
     "PERIMETRE": 24,
     "AMPLADA": 10,
@@ -6267,7 +6268,7 @@
   },
   {
     "ID": 483,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 25.27202,
     "PERIMETRE": 25.66458,
     "AMPLADA": 10.40299,
@@ -6280,7 +6281,7 @@
   },
   {
     "ID": 484,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 36.96,
     "PERIMETRE": 35.6,
     "AMPLADA": 15.4,
@@ -6293,7 +6294,7 @@
   },
   {
     "ID": 485,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 30.93566,
     "PERIMETRE": 29.79667,
     "AMPLADA": 12.40441,
@@ -6306,7 +6307,7 @@
   },
   {
     "ID": 486,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 35.1,
     "PERIMETRE": 31.4,
     "AMPLADA": 2.7,
@@ -6319,7 +6320,7 @@
   },
   {
     "ID": 487,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 39.02929,
     "PERIMETRE": 35.89778,
     "AMPLADA": 15.41738,
@@ -6332,7 +6333,7 @@
   },
   {
     "ID": 488,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 19.81589,
     "PERIMETRE": 21.71515,
     "AMPLADA": 8.53618,
@@ -6345,7 +6346,7 @@
   },
   {
     "ID": 489,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 41.08164,
     "PERIMETRE": 36.37663,
     "AMPLADA": 15.54567,
@@ -6358,7 +6359,7 @@
   },
   {
     "ID": 490,
-    "ZONA": "C‡rrega i Desc‡rrega",
+    "ZONA": "C√†rrega i Desc√†rrega",
     "AREA": 48.96936,
     "PERIMETRE": 45.6078,
     "AMPLADA": 2.4,

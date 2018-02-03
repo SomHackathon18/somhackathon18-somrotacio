@@ -9,7 +9,7 @@ json <- fromJSON("cid.json", flatten=TRUE)
 json$mida <- sapply(1:nrow(json), function(i) {
   return (max(json$ALCADA[i], json$AMPLADA[i]))
 })
-json$nplaces <- floor(json$mida / MIDA_COTXE)
+json$nplaces <- ceiling(json$mida / MIDA_COTXE)
 
-cat(toJSON(json, digits=8, pretty=TRUE), file = 'cid-infostat.json')
+cat(toJSON(json, digits=8, pretty=TRUE, ), file='cid-infostat.json')
 
