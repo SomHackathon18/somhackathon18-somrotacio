@@ -1,4 +1,6 @@
 import os
+
+import datetime
 from flask import Flask, request, logging, Response, jsonify
 from flask_cors import CORS
 
@@ -21,14 +23,13 @@ def validate_parking(parking):
 def parking_post():
     parking = request.get_json()
     validate_parking(parking)
-    parking = repository.create(parking['vehicle'], parking['parkingArea'], parking['startTime'])
+    startTime = datetime.datetime.now()
+    parking = repository.create(parking['vehicle'], parking['parkingArea'], startTime)
     return jsonify(parking), 201
 
 @app.route('/parkings/<parkingid>/endtime', methods=['POST'])
 def parking_finish(parkingid):
-    endTime = request.get_json()
-    validate_parking(endTime)
-    print endTime
+    endTime = datetime.datetime.now()
     parking = repository.update(parkingid, endTime)
     return jsonify(parking), 201
 
