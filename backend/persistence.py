@@ -62,11 +62,11 @@ class Persistence:
                 self.close_connection(db_conn)
             raise ex
 
-    def update(self, vehicle, parkingArea, startTime, endTime):
-        sql_script = 'UPDATE parking SET endTime = :endTime WHERE vehicle = :vehicle AND parkingArea = :parkingArea AND startTime = :startTime'
+    def update(self, parkingid, endTime):
+        sql_script = 'UPDATE parking SET endTime = :endTime WHERE id = :parkingid'
         db_conn, db_client = self.create_connection()
         try:
-            db_client.execute(sql_script, {'vehicle': vehicle, 'parkingArea': parkingArea, 'startTime': startTime, 'endTime': endTime})
+            db_client.execute(sql_script, {'parkingid': parkingid, 'endTime': endTime})
             db_conn.commit()
             self.close_connection(db_conn)
         except Exception as ex:
