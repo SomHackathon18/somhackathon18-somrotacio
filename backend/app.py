@@ -1,6 +1,9 @@
 import os
 
 import datetime
+from logging import basicConfig
+from logging import INFO
+
 from flask import Flask, request, logging, Response, jsonify
 from flask_cors import CORS
 
@@ -12,7 +15,16 @@ CORS(app)
 
 @app.route('/')
 def hello():
-    return "Hello World!"
+    log = read_file(os.environ['APP_LOG'])
+    return log
+
+
+def read_file(file_path):
+    abs_path = os.path.dirname(os.path.abspath(__file__))
+    log = os.path.join(abs_path, file_path)
+    with open(log, 'r') as logfile:
+        content = logfile.read()
+    return content
 
 
 def validate_parking(parking):
@@ -23,15 +35,17 @@ def validate_parking(parking):
 def parking_post():
     parking = request.get_json()
     validate_parking(parking)
-    startTime = datetime.datetime.now()
-    parking = repository.create(parking['vehicle'], parking['parkingArea'], startTime)
+    start_time = datetime.datetime.now()
+    parking = repository.create(parking['vehicle'], parking['parkingArea'], start_time)
     return jsonify(parking), 201
+
 
 @app.route('/parkings/<parkingid>/endtime', methods=['POST'])
 def parking_finish(parkingid):
-    endTime = datetime.datetime.now()
-    parking = repository.update(parkingid, endTime)
+    end_time = datetime.datetime.now()
+    parking = repository.update(parkingid, end_time)
     return jsonify(parking), 201
+
 
 @app.route('/parkings', methods=['GET'])
 def parking_list():
@@ -42,14 +56,13 @@ def parking_list():
 
 @app.route('/cid', methods=['GET'])
 def cid_list():
-    THIS_FOLDER = os.path.dirname(os.path.abspath(__file__))
-    cid_json = os.path.join(THIS_FOLDER, 'cid.json')
-    with open(cid_json, 'r') as json:
-        content = json.read()
-    return Response(content, status=200, mimetype='application/json')
+    cid = read_file('cid.json')
+    return Response(cid, status=200, mimetype='application/json')
 
 
 if __name__ == '__main__':
+    basicConfig(filename=os.environ['APP_LOG'], level=INFO)
+
     repository = Persistence(os.environ['DB_PATH'], logging.getLogger(__name__))
     repository.init_db()
 
