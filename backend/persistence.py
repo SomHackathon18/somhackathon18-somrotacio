@@ -1,9 +1,7 @@
 import sqlite3
-import json
-from collections import OrderedDict
 
 
-class VMSRepository:
+class Persistence:
     def __init__(self, path, log):
         self.path = path
         self.log = log
@@ -42,7 +40,7 @@ class VMSRepository:
             raise ex
 
     def create(self, vehicle, parkingArea, startTime):
-        sql_script = 'INSERT INTO parking (vehicle, parkingArea, startTime) VALUES (:parking_id, :vehicle, :parkingArea, :startTime)'
+        sql_script = 'INSERT INTO parking (vehicle, parkingArea, startTime) VALUES (:vehicle, :parkingArea, :startTime)'
         db_conn, db_client = self.create_connection()
         try:
             db_client.execute(sql_script, {'vehicle': vehicle, 'parkingArea': parkingArea, 'startTime': startTime})
