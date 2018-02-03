@@ -45,7 +45,7 @@ def parking_post():
 def parking_finish(parkingid):
     end_time = datetime.datetime.now()
     repository.update(parkingid, end_time)
-    return "OK"
+    return "{}"
 
 
 @app.route('/parkings', methods=['GET'])
