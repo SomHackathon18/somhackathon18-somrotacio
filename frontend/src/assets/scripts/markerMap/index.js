@@ -7,13 +7,15 @@ export default (function () {
       console.log(data);
       var mymap = L.map('mapid').setView([41.538113, 2.444741], 13);
       var polygons = [];
+      //var marker = [];
       for (var key in data) {
-        // var marker = L.marker([51.5, -0.09]).addTo(mymap);
-/*        var polygon = L.polygon([
-          [51.509, -0.08],
-          [51.503, -0.06],
-          [51.51, -0.047]
-        ]).addTo(mymap);*/
+
+        //var lat = data[key].LAT;
+        //var lng = data[key].LNG;
+        //lat = lat.replace(",", ".");
+        //lng = lng.replace(",", ".");
+
+        //marker[key] = L.marker([lat, lng]).addTo(mymap);
 
         var polygon = data[key].WKT.replace("POLYGON ((", "").replace("))", "");
         polygon = polygon.split(", ").map(function(p){return p.split(" ").reverse();});
