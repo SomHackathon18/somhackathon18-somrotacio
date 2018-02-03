@@ -1,4 +1,4 @@
-from flask import Flask, request, logging
+from flask import Flask, request, logging, Response, jsonify
 
 from persistence import Persistence
 
@@ -19,13 +19,19 @@ def parking_post():
     parking = request.get_json()
     validate_parking(parking)
     repository.create(parking['vehicle'], parking['parkingArea'], parking['startTime'])
-    return parking, 201
+    return jsonify(parking), 201
 
 
 @app.route('/parking', methods=['GET'])
 def parking_list():
     parking_ll = repository.list()
     return parking_ll
+
+
+@app.route('/cid', methods=['GET'])
+def cid_list():
+    with open('cid.json', 'r') as json:
+        return Response(json.read(), status=200, mimetype='application/json')
 
 
 if __name__ == '__main__':
