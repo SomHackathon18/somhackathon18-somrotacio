@@ -127,11 +127,11 @@ public class DashboardFragment extends Fragment {
             try {
                 int tipusDeVehicle;
                 if (profile.isHandicapped()) {
-                    tipusDeVehicle = 3;
-                } else if (selectedVehicle.isParticular()) {
                     tipusDeVehicle = 2;
-                } else {
+                } else if (selectedVehicle.isParticular()) {
                     tipusDeVehicle = 1;
+                } else {
+                    tipusDeVehicle = 0;
                 }
                 postParams.put(
                         APIController.ENDPOINT_CHECK_IN_PARKING_VEHICLE_PARAM,
