@@ -19,6 +19,7 @@ class Persistence:
                          parkingArea INTEGER,
                          startTime TIMESTAMP,
                          endTime TIMESTAMP,
+                         tipusVehicle INTEGER,
                          CONSTRAINT unique_parking UNIQUE (vehicle, parkingArea, startTime)
                          )''')
             db_conn.commit()
@@ -44,12 +45,12 @@ class Persistence:
             self.log.error('Error closing the connection with the SQLite DB. Exception: ' + str(ex))
             raise ex
 
-    def create(self, vehicle, parkingArea, startTime):
-        sql_script = 'INSERT INTO parking (vehicle, parkingArea, startTime) VALUES (:vehicle, :parkingArea, :startTime)'
+    def create(self, vehicle, parkingArea, startTime, tipusVehicle):
+        sql_script = 'INSERT INTO parking (vehicle, parkingArea, startTime, tipusVehicle) VALUES (:vehicle, :parkingArea, :startTime, :tipusVehicle)'
         db_conn, db_client = self.create_connection()
         try:
             cursor = db_conn.cursor()
-            parking = {'vehicle': vehicle, 'parkingArea': parkingArea, 'startTime': startTime}
+            parking = {'vehicle': vehicle, 'parkingArea': parkingArea, 'startTime': startTime, 'tipusVehicle': tipusVehicle}
             cursor.execute(sql_script, parking)
             parkingid = cursor.lastrowid
             db_conn.commit()
@@ -90,7 +91,7 @@ class Persistence:
             raise ex
 
     def get(self, vehicle, parkingArea, startTime):
-        sql_script = 'SELECT vehicle, parkingArea, startTime, endTime FROM parking WHERE vehicle = :vehicle AND parkingArea = :parkingArea AND startTime = :startTime'
+        sql_script = 'SELECT vehicle, parkingArea, startTime, endTime, tipusVehicle FROM parking WHERE vehicle = :vehicle AND parkingArea = :parkingArea AND startTime = :startTime'
         db_conn, db_client = self.create_connection()
         try:
             db_client.execute(sql_script, {'vehicle': vehicle, 'parkingArea': parkingArea, 'startTime': startTime})
