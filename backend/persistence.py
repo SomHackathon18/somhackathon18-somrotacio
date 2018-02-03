@@ -117,9 +117,8 @@ class Persistence:
             rows = db_client.fetchall()
             parking_list = []
             for row in rows:
-                dict_row = OrderedDict(zip(keys, row))
-                parking = json.loads(dict_row, object_pairs_hook=OrderedDict)
-                parking_list.append(parking)
+                parking_row = OrderedDict(zip(keys, row))
+                parking_list.append(parking_row)
             self.close_connection(db_conn)
             return parking_list
         except Exception as ex:

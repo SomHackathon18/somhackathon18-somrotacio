@@ -25,7 +25,8 @@ def parking_post():
 @app.route('/parking', methods=['GET'])
 def parking_list():
     parking_ll = repository.list()
-    return parking_ll
+    print parking_ll
+    return jsonify(parking_ll)
 
 
 @app.route('/cid', methods=['GET'])
