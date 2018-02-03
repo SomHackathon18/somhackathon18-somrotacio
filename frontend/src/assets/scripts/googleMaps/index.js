@@ -6,9 +6,14 @@ export default (function () {
 
       console.log(data);
       var mymap = L.map('mapid').setView([41.538113, 2.444741], 13);
+      var marker = [];
       for (var key in data) {
-        // var marker = L.marker([51.5, -0.09]).addTo(mymap);
-        console.log(data[key])
+        var lat = data[key].LAT;
+        var lng = data[key].LNG;
+        lat = lat.replace(",", ".");
+        lng = lng.replace(",", ".");
+
+        marker[key] = L.marker([lat, lng]).addTo(mymap);
       }
       L.tileLayer('https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token=pk.eyJ1IjoibWFwYm94IiwiYSI6ImNpejY4NXVycTA2emYycXBndHRqcmZ3N3gifQ.rJcFIG214AriISLbB6B5aw', {
         maxZoom: 18,
