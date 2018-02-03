@@ -1,6 +1,6 @@
 from flask import Flask, request, logging
 
-from backend.persistence import Persistence
+from persistence import Persistence
 
 app = Flask(__name__)
 
@@ -24,7 +24,8 @@ def parking_post():
 
 @app.route('/parking', methods=['GET'])
 def parking_list():
-    return None, 201
+    parking_ll = repository.list()
+    return parking_ll
 
 
 if __name__ == '__main__':
