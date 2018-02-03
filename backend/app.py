@@ -42,7 +42,9 @@ def parking_list():
 
 @app.route('/cid', methods=['GET'])
 def cid_list():
-    with open('cid.json', 'r') as json:
+    THIS_FOLDER = os.path.dirname(os.path.abspath(__file__))
+    cid_json = os.path.join(THIS_FOLDER, 'cid.json')
+    with open(cid_json, 'r') as json:
         content = json.read()
     return Response(content, status=200, mimetype='application/json')
 
