@@ -37,7 +37,7 @@ def parking_post():
     parking = request.get_json()
     validate_parking(parking)
     start_time = datetime.datetime.now()
-    parking = repository.create(parking['vehicle'], parking['parkingArea'], start_time)
+    parking = repository.create(parking['vehicle'], parking['parkingArea'], start_time, parking['tipusVehicle'])
     return jsonify(parking), 201
 
 
@@ -60,11 +60,15 @@ def cid_list():
     cid_dict = {}
     for cid in cids:
         cid['nplacesocupades'] = 0
+        cid['nplacesocupadesperveh'] = [0] * 3
         cid_dict[cid["ID"]] = cid
 
     parking_list = repository.list_occupied()
     for parking in parking_list:
-        cid_dict[parking['parkingArea']]['nplacesocupades'] = cid_dict[parking['parkingArea']]['nplacesocupades'] + 1
+        cid = cid_dict[parking['parkingArea']]
+        tipusVehicle = parking['tipusVehicle']
+        cid['nplacesocupades'] = cid['nplacesocupades'] + 1
+        cid['nplacesocupadesperveh'][tipusVehicle] = cid['nplacesocupadesperveh'][tipusVehicle] + 1
 
     return jsonify(cid_dict)
 
@@ -75,7 +79,8 @@ if __name__ == '__main__':
     log = os.path.join(abs_path, os.environ['APP_LOG'])
     basicConfig(filename=log, level=INFO)
 
-    repository = Persistence(os.environ['DB_PATH'], logging.getLogger(__name__))
+    db = os.path.join(abs_path, os.environ['DB_PATH'])
+    repository = Persistence(db, logging.getLogger(__name__))
     repository.init_db()
 
     app.run(host=os.environ['IP_LISTEN'], port=int(os.environ['PORT_LISTEN']), threaded=True)
