@@ -48,9 +48,14 @@ class Persistence:
         sql_script = 'INSERT INTO parking (vehicle, parkingArea, startTime) VALUES (:vehicle, :parkingArea, :startTime)'
         db_conn, db_client = self.create_connection()
         try:
-            db_client.execute(sql_script, {'vehicle': vehicle, 'parkingArea': parkingArea, 'startTime': startTime})
+            cursor = db_conn.cursor()
+            parking = {'vehicle': vehicle, 'parkingArea': parkingArea, 'startTime': startTime}
+            cursor.execute(sql_script, parking)
+            parkingid = cursor.lastrowid
             db_conn.commit()
             self.close_connection(db_conn)
+            parking['id'] = parkingid
+            return parking
         except Exception as ex:
             self.log.error('Error executing a query in the SQLite DB. Exception: ' + str(ex))
             if db_conn:

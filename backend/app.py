@@ -20,7 +20,7 @@ def validate_parking(parking):
 def parking_post():
     parking = request.get_json()
     validate_parking(parking)
-    repository.create(parking['vehicle'], parking['parkingArea'], parking['startTime'])
+    parking = repository.create(parking['vehicle'], parking['parkingArea'], parking['startTime'])
     return jsonify(parking), 201
 
 @app.route('/parkings', methods=['GET'])
