@@ -1,10 +1,11 @@
 import os
 
 import datetime
+from collections import OrderedDict
 from logging import basicConfig
 from logging import INFO
 
-from flask import Flask, request, logging, Response, jsonify
+from flask import Flask, request, logging, Response, jsonify, json
 from flask_cors import CORS
 
 from persistence import Persistence
@@ -43,21 +44,31 @@ def parking_post():
 @app.route('/parkings/<parkingid>/endtime', methods=['POST'])
 def parking_finish(parkingid):
     end_time = datetime.datetime.now()
-    parking = repository.update(parkingid, end_time)
-    return jsonify(parking), 201
+    repository.update(parkingid, end_time)
+    return "OK"
 
 
 @app.route('/parkings', methods=['GET'])
 def parking_list():
     parking_ll = repository.list()
-    print parking_ll
     return jsonify(parking_ll)
 
 
+def getCID():
+    cid_list = read_file('cid-infostat.json')
+    return cid_list
+
 @app.route('/cid', methods=['GET'])
 def cid_list():
-    cid = read_file('cid-infostat.json')
-    return Response(cid, status=200, mimetype='application/json')
+    cid_list = getCID()
+    #cid_list = json.loads(cid_list, object_pairs_hook=OrderedDict)
+    print cid_list
+
+    parking_list = repository.list_occupied()
+    print parking_list
+
+    return Response(cid_list, status=200, mimetype='application/json')
+
 
 
 if __name__ == '__main__':
