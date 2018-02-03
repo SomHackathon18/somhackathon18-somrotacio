@@ -17,11 +17,19 @@ def validate_parking(parking):
     pass
 
 
-@app.route('/parking', methods=['POST'])
+@app.route('/parkings', methods=['POST'])
 def parking_post():
     parking = request.get_json()
     validate_parking(parking)
     parking = repository.create(parking['vehicle'], parking['parkingArea'], parking['startTime'])
+    return jsonify(parking), 201
+
+@app.route('/parkings/<parkingid>/endtime', methods=['POST'])
+def parking_finish(parkingid):
+    endTime = request.get_json()
+    validate_parking(endTime)
+    print endTime
+    parking = repository.update(parkingid, endTime)
     return jsonify(parking), 201
 
 @app.route('/parkings', methods=['GET'])
