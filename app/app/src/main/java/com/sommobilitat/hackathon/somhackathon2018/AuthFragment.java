@@ -64,6 +64,7 @@ public class AuthFragment extends Fragment {
         AlertDialog.Builder dialogBuilder = new AlertDialog.Builder(getContext());
         LayoutInflater inflater = this.getLayoutInflater();
         final View dialogView = inflater.inflate(R.layout.alert_register, null);
+        final EditText usernameEditText = (EditText) dialogView.findViewById(R.id.input_register_username);
         final LinearLayout addVehicleLayout = (LinearLayout) dialogView.findViewById(R.id.register_vehicle_holder);
         ImageButton addVehicleImageButton = (ImageButton) dialogView.findViewById(R.id.register_add_vehicle);
         addVehicleImageButton.setOnClickListener(new View.OnClickListener() {
@@ -92,6 +93,7 @@ public class AuthFragment extends Fragment {
                             public void onClick(DialogInterface dialog, int id) {
                                 ProfileController.updateVehicles(getContext(),
                                         ProfileController.INDEX_BASE_PROFILE, ProfileController.helperConversionVehicles(vehicleArray, particularArray));
+                                AuthController.setUsername(getContext(), usernameEditText.getText().toString());
                                 AuthController.setUserLogged(getContext(), true);
                                 ((MainActivity) getActivity()).reloadMainActivity(R.id.navigation_profile);
                             }

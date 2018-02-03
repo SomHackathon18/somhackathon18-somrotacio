@@ -4,11 +4,31 @@ import android.content.Context;
 import android.widget.CheckBox;
 import android.widget.EditText;
 
+import com.sommobilitat.hackathon.somhackathon2018.models.Profile;
+import com.sommobilitat.hackathon.somhackathon2018.models.Vehicle;
+
 import java.util.ArrayList;
 
 public class ProfileController {
     public static final int INDEX_BASE_PROFILE = 1;
     public static final String KEY_USER_VEHICLES = "KEY_USER_VEHICLES";
+
+    public static Profile getProfileFromDB(Context context, int userId) {
+        String vehicles = getVehicles(context, userId);
+        if (vehicles.equals(""))
+            return new Profile(userId, null);
+
+        String[] vehiclesSplitted = vehicles.split("@");
+        ArrayList<Vehicle> vehicleArrayList = new ArrayList<>();
+        for (String vehicleUser : vehiclesSplitted) {
+            String matricula = vehicleUser.split("#")[0];
+            boolean particular = (vehicleUser.split("#")[1]).equals("true");
+
+            vehicleArrayList.add(new Vehicle(matricula, particular));
+        }
+
+        return new Profile(userId, vehicleArrayList);
+    }
 
     public static String helperConversionVehicles(ArrayList<EditText> vehiclesArray, ArrayList<CheckBox> particularArray) {
         StringBuilder vehicleParticularData = new StringBuilder();
@@ -21,7 +41,6 @@ public class ProfileController {
                 vehicleParticularData.append("@");
             }
         }
-
         return vehicleParticularData.toString();
     }
 
