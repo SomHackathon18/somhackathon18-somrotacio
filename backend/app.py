@@ -1,3 +1,4 @@
+import os
 from flask import Flask, request, logging, Response, jsonify
 from flask_cors import CORS
 
@@ -37,7 +38,7 @@ def cid_list():
 
 
 if __name__ == '__main__':
-    repository = Persistence('database.db', logging.getLogger(__name__))
+    repository = Persistence(os.environ['DB_PATH'], logging.getLogger(__name__))
     repository.init_db()
 
-    app.run()
+    app.run(host=os.environ['IP_LISTEN'], port=int(os.environ['PORT_LISTEN']))
