@@ -1,12 +1,153 @@
-<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:layout_marginBottom="?attr/actionBarSize"
+    android:layout_marginEnd="15dp"
+    android:layout_marginStart="15dp"
+    android:layout_marginTop="15dp"
+    android:orientation="vertical"
     tools:context="com.sommobilitat.hackathon.somhackathon2018.HomeFragment">
 
-    <TextView
-        android:id="@+id/profile_username_label"
+    <LinearLayout
+        android:id="@+id/panel_check_in_layout"
         android:layout_width="match_parent"
-        android:layout_height="match_parent" />
-</FrameLayout>
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="15dp"
+        android:orientation="vertical"
+        android:visibility="gone">
+
+        <TextView
+            android:id="@+id/panel_check_in_label"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/panel_check_in_label"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+        <EditText
+            android:id="@+id/panel_check_in_parkingid_edittext"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/panel_check_in_parkingid_label"
+            android:inputType="number" />
+
+        <Spinner
+            android:id="@+id/panel_check_in_matriculas_spinner"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@android:drawable/btn_dropdown"
+            android:spinnerMode="dropdown" />
+
+        <Button
+            android:id="@+id/bt_go_check_in"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:background="@color/colorAccent"
+            android:text="@string/panel_check_in_go_label" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/panel_check_status_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="15dp"
+        android:orientation="vertical"
+        android:visibility="gone">
+
+        <TextView
+            android:id="@+id/panel_check_status_label"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:text="@string/panel_check_status_label"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingBottom="5dp"
+            android:text="@string/panel_check_in_parkingid_label"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/tv_status_parking_current"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingBottom="10dp"
+            android:paddingStart="5dp"
+            android:text="1" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingBottom="5dp"
+            android:text="@string/profile_matricula_label"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/tv_status_matricula_current"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingBottom="10dp"
+            android:paddingStart="5dp"
+            android:text="ABC-DEF" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingBottom="5dp"
+            android:text="@string/panel_check_status_start"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/tv_status_time_start"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingBottom="10dp"
+            android:paddingStart="5dp"
+            android:text="..." />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingBottom="10dp"
+            android:text="@string/panel_check_status_current"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/tv_status_time_current"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingStart="5dp"
+            android:text="13min 22sec" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/panel_check_out_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:visibility="gone">
+
+        <TextView
+            android:id="@+id/panel_check_out_label"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:text="@string/panel_check_out_label"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+        <Button
+            android:id="@+id/bt_go_check_out"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="15dp"
+            android:layout_marginTop="5dp"
+            android:background="@color/colorAccent"
+            android:text="@string/panel_check_out_go_label" />
+    </LinearLayout>
+</LinearLayout>

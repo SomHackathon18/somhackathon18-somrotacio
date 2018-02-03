@@ -1,10 +1,11 @@
 import os
 
 import datetime
+from collections import OrderedDict
 from logging import basicConfig
 from logging import INFO
 
-from flask import Flask, request, logging, Response, jsonify
+from flask import Flask, request, logging, Response, jsonify, json
 from flask_cors import CORS
 
 from persistence import Persistence
@@ -43,25 +44,36 @@ def parking_post():
 @app.route('/parkings/<parkingid>/endtime', methods=['POST'])
 def parking_finish(parkingid):
     end_time = datetime.datetime.now()
-    parking = repository.update(parkingid, end_time)
-    return jsonify(parking), 201
+    repository.update(parkingid, end_time)
+    return "OK"
 
 
 @app.route('/parkings', methods=['GET'])
 def parking_list():
     parking_ll = repository.list()
-    print parking_ll
     return jsonify(parking_ll)
 
 
 @app.route('/cid', methods=['GET'])
 def cid_list():
-    cid = read_file('cid.json')
-    return Response(cid, status=200, mimetype='application/json')
+    from cid_infostat import cid as cids
+    cid_dict = {}
+    for cid in cids:
+        cid['nplacesocupades'] = 0
+        cid_dict[cid["ID"]] = cid
+
+    parking_list = repository.list_occupied()
+    for parking in parking_list:
+        cid_dict[parking['parkingArea']]['nplacesocupades'] = cid_dict[parking['parkingArea']]['nplacesocupades'] + 1
+
+    return jsonify(cid_dict)
+
 
 
 if __name__ == '__main__':
-    basicConfig(filename=os.environ['APP_LOG'], level=INFO)
+    abs_path = os.path.dirname(os.path.abspath(__file__))
+    log = os.path.join(abs_path, os.environ['APP_LOG'])
+    basicConfig(filename=log, level=INFO)
 
     repository = Persistence(os.environ['DB_PATH'], logging.getLogger(__name__))
     repository.init_db()

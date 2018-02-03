@@ -15,6 +15,7 @@ import android.widget.Toast;
 
 import com.sommobilitat.hackathon.somhackathon2018.controllers.AuthController;
 import com.sommobilitat.hackathon.somhackathon2018.controllers.ProfileController;
+import com.sommobilitat.hackathon.somhackathon2018.controllers.SharedPreferencesController;
 
 import java.util.ArrayList;
 
@@ -41,7 +42,7 @@ public class ProfileFragment extends Fragment {
         setUpElements();
         setUpListeners();
 
-        userTextView.setText("getUsername");
+        userTextView.setText(AuthController.getUsername(getContext()));
 
         fillVehicles();
 

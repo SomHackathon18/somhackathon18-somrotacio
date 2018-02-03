@@ -16,4 +16,14 @@
     <string name="profile_vehicle_afegir_label">Afegir</string>
     <string name="profile_matricula_label">Matrícula</string>
     <string name="profile_particular_label">Particular</string>
+
+    <string name="panel_check_in_label">Check-in</string>
+    <string name="panel_check_in_parkingid_label">ID de Càrrega i Descàrrega</string>
+    <string name="panel_check_in_go_label">Fer check-in</string>
+    <string name="panel_check_status_label">Estat actual</string>
+    <string name="panel_check_status_start">Inici</string>
+    <string name="panel_check_status_current">Temps restant</string>
+    <string name="panel_check_out_label">Check-out</string>
+    <string name="panel_check_out_go_label">Fer check-out</string>
+
 </resources>
