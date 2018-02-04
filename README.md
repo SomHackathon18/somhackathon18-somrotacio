@@ -25,7 +25,7 @@ Aquesta sol·lució és col·laborativa pel benefici comú. I es diferencia de l
 ### Tech
 Aquest projecte utilitza *Open Source* per al seu funcionament:
 
-* [Flask] - Framework Python com a backend.
+* [Flask] - Framework Python com a backend REST.
 * [SQLite] - Persistència de les dades.
 * [LeafletJS] - Representació de mapa a la web.
 * [HTML5] - Web.
