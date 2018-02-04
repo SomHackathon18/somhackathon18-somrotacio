@@ -41,6 +41,12 @@ def parking_post():
     return jsonify(parking), 201
 
 
+@app.route('/parkings/recent', methods=['GET'])
+def recent_parking():
+    recent = repository.list_occupied_ordered()
+    return jsonify(recent), 200
+
+
 @app.route('/parkings/<parkingid>/endtime', methods=['POST'])
 def parking_finish(parkingid):
     end_time = datetime.datetime.now()
@@ -71,7 +77,6 @@ def cid_list():
         cid['nplacesocupadesperveh'][tipusVehicle] = cid['nplacesocupadesperveh'][tipusVehicle] + 1
 
     return jsonify(cid_dict)
-
 
 
 if __name__ == '__main__':
