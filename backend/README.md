@@ -23,7 +23,11 @@
 * **Success Response:**
 
   * **Code:** 200 <br />
-    **Content:** `{ id : 12, name : "Michael Bloom" }`
+    **Content:** `{ id : 1, 
+                    vehicle : "4567-VDF",
+                    parkingArea : 314,
+                    startTime : "2018-02-04 00:49:18",
+                    endTime :  "2018-02-04 00:54:20"}`
  
 * **Error Response:**
 
