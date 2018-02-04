@@ -13,7 +13,7 @@ Al no haver-hi control dels estacionaments a les zones de Càrrega i Descàrrega
   - **Open Source**
   - **Disponibilitat**: Consulta en temps real de les places disponibles.
   - **Col·laboració**: Participació de la ciutadania.
-  - **Modernització**: Apropament del sistema al món digital·
+  - **Modernització**: Apropament del sistema al món digital.
 
 ### Solució
 Com a solució s'ha realitzat una plataforma que permet la **obtenció** i **explotació** de les dades de les zones de *CiD*. Aquesta solució es compon d'un **dashboard web** per al *frontend*, una **aplicació Android** per a la introducció de dades i una **API** com a *backend*.
