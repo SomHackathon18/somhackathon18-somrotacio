@@ -1,3 +1,5 @@
+*(Disclaimer: Under construction)*
+
 **Show Parkings**
 ----
   Returns json data about all the *check-in* and *check-out* data.
