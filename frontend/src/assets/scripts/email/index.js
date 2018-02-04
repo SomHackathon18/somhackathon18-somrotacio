@@ -1,13 +1,20 @@
 import * as $ from 'jquery';
 
 export default (function () {
-  $('.email-side-toggle').on('click', e => {
-    $('.email-app').toggleClass('side-active');
-    e.preventDefault();
-  });
+  $.getJSON("http://178.62.30.127/parkings/recent", function (data) {
 
-  $('.email-list-item, .back-to-mailbox').on('click', e => {
-    $('.email-content').toggleClass('open');
-    e.preventDefault();
+    console.log(data);
+
+    $.each(data, function (key, value) {
+
+      let tipus;
+      if (value.tipusVehicle === 0) tipus = 'Comercial';
+      if (value.tipusVehicle === 1) tipus = 'Turisme';
+      if (value.tipusVehicle === 2) tipus = 'Movilitat reduida';
+
+      $('#recentParkings > tbody:last-child')
+        .append('<tr><th scope="row">'+value.id+'</th><td>'+value.parkingArea+'</td><td>'+value.startTime.split(".")[0]+'</td><td>'+tipus+'</td></tr>');
+    });
+
   });
 }())
