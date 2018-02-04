@@ -33,6 +33,9 @@ Aquest projecte utilitza *Open Source* per al seu funcionament:
 * [Android] - Aplicació Android nativa.
 * [Open Street Maps] - Representació de mapa a l'aplicació.
 
+### API REST
+Hi ha una [documentació de l'API REST](https://github.com/SomHackathon18/somhackathon18-somrotacio/tree/master/backend) disponible.
+
 Llicència
 ----
 MIT
