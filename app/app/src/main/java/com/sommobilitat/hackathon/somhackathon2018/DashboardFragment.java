@@ -125,9 +125,20 @@ public class DashboardFragment extends Fragment {
         if (selectedVehicle != null) {
             JSONObject postParams = new JSONObject();
             try {
+                int tipusDeVehicle;
+                if (profile.isHandicapped()) {
+                    tipusDeVehicle = 2;
+                } else if (selectedVehicle.isParticular()) {
+                    tipusDeVehicle = 1;
+                } else {
+                    tipusDeVehicle = 0;
+                }
                 postParams.put(
                         APIController.ENDPOINT_CHECK_IN_PARKING_VEHICLE_PARAM,
                         selectedVehicle.getMatricula());
+                postParams.put(
+                        APIController.ENDPOINT_CHECK_IN_PARKING_TIPUS_PARAM,
+                        tipusDeVehicle);
                 postParams.put(
                         APIController.ENDPOINT_CHECK_IN_PARKING_PARK_ID_PARAM,
                         idOfCiDZone);

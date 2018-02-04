@@ -1,12 +1,33 @@
-<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:layout_marginBottom="?attr/actionBarSize"
     tools:context="com.sommobilitat.hackathon.somhackathon2018.HomeFragment">
 
+    <org.osmdroid.views.MapView
+        android:id="@+id/osmap"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent" />
+
     <TextView
-        android:id="@+id/profile_username_label"
-        android:layout_width="match_parent"
-        android:layout_height="match_parent" />
-</FrameLayout>
+        android:id="@+id/home_zoom_in"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_margin="5dp"
+        android:background="#dfd1d1d1"
+        android:gravity="center"
+        android:text="+"
+        android:textSize="24sp" />
+
+    <TextView
+        android:id="@+id/home_zoom_out"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_below="@+id/home_zoom_in"
+        android:layout_margin="5dp"
+        android:background="#dfd1d1d1"
+        android:gravity="center"
+        android:text="-"
+        android:textSize="24sp" />
+</RelativeLayout>

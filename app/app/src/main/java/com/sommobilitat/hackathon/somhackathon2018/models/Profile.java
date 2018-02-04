@@ -4,11 +4,13 @@ import java.util.ArrayList;
 
 public class Profile {
     private int userId;
+    private boolean handicapped;
     private ArrayList<Vehicle> vehiclesArrayList;
 
-    public Profile(int userId, ArrayList<Vehicle> vehiclesArrayList) {
+    public Profile(int userId, boolean handicapped, ArrayList<Vehicle> vehiclesArrayList) {
         super();
         this.userId = userId;
+        this.handicapped = handicapped;
         this.vehiclesArrayList = vehiclesArrayList;
     }
 
@@ -35,5 +37,13 @@ public class Profile {
             }
         }
         return null;
+    }
+
+    public boolean isHandicapped() {
+        return handicapped;
+    }
+
+    public void setHandicapped(boolean handicapped) {
+        this.handicapped = handicapped;
     }
 }

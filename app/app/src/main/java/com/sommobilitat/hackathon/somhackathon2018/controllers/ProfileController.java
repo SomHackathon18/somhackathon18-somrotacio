@@ -14,9 +14,10 @@ public class ProfileController {
     public static final String KEY_USER_VEHICLES = "KEY_USER_VEHICLES";
 
     public static Profile getProfileFromDB(Context context, int userId) {
+        boolean isHandicapped = AuthController.isWheelchair(context);
         String vehicles = getVehicles(context, userId);
         if (vehicles.equals(""))
-            return new Profile(userId, null);
+            return new Profile(userId, isHandicapped, null);
 
         String[] vehiclesSplitted = vehicles.split("@");
         ArrayList<Vehicle> vehicleArrayList = new ArrayList<>();
@@ -27,7 +28,7 @@ public class ProfileController {
             vehicleArrayList.add(new Vehicle(matricula, particular));
         }
 
-        return new Profile(userId, vehicleArrayList);
+        return new Profile(userId, isHandicapped, vehicleArrayList);
     }
 
     public static String helperConversionVehicles(ArrayList<EditText> vehiclesArray, ArrayList<CheckBox> particularArray) {
