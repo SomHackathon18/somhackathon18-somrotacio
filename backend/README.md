@@ -51,7 +51,7 @@
     });
   ```
   
-  **Check-in**
+**Check-in**
 ----
   *Check-in* of a vehicle in an parking area. Returns unique id of use.
 
@@ -100,7 +100,7 @@
     });
   ```
   
-    **Check-out**
+**Check-out**
 ----
   *Check-out* of a vehicle in a parking area. Returns state of the usage.
 
